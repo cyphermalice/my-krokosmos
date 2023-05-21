@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Schatten </title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Source+Serif+Pro:ital,wght@0,300;1,300&display=swap');
+
+img {
+
+  width: 250px;
+  height: 250px;
+  margin: 0.5em;
+  padding: 5px;
+  border-radius:250px;
+  opacity:0.5;
+}
+body {background-color: #fff;}
+h1 {
+  color:#212529;
+ font-family: 'DM+Serif+Display', serif;
+  font-size: 300%;
+  font-weight: heavy;
+  padding: 0px;
+;
+
+}
+h2 {
+  color: #fff;
+  font-family: 'DM+Serif+Display', serif;
+  font-size:100%;
+  font-weight: black;
+}
+h3 {
+     color:#fff;
+ font-family: 'DM+Serif+Display',serif;
+  font-size: 250%;
+  font-weight: Heavy
+}
+h4 { color:#AE97AF;
+ font-family: 'Poppins', sans-serif;
+  font-size: 40%;
+  font-weight
+  padding:-10px;
+}
+p {  
+       text-indent: 20pt;
+    color: #fff;
+  font-family: 'Source+Serif+Pro', serif;   ;
+    font-size: 12pt;
+    font-weight: 150;
+    line-height: 1;
+    margin: 0;
+ 
+    
+}
+
+div  { 
+  width:950px;
+  border: 60px #0000;
+  border-radius:5px;
+  background: #212529;
+  padding: 15px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+element.style {
+}
+@media screen and (max-width: 980px)
+body {
+    padding-top: 20px;
+}
+body {
+    padding-top: 4.125em;
+}
+@media screen and (max-width: 1280px)
+body, input, select, textarea {
+    font-size: 12pt;
+}
+@media screen and (max-width: 1680px)
+body, input, select, textarea {
+    font-size: 13pt;
+}
+body, input, select, textarea {
+    font-family: Roboto+Serif ;
+    font-size: 16pt;
+    font-weight: 300;
+    line-height: 1;
+}
+body {
+    background-color: #fff;
+    color: #fff;
+}
+body {
+    -ms-overflow-style: scrollbar;
+}
+body {
+    -webkit-text-size-adjust: none;
+}
+body {
+    line-height: 1;
+}
+head{ size:5px ;
+}
+
+
+
+
+</style>
+<body>
+<script language="JavaScript"> alert("Does your shadow scares you?"); </script>
+<script language="JavaScript"> alert("Don't be afraid, walk into the darkness"); </script>
+<script>var Rafaela = prompt("Qual o nome da esposa do detetive?","")</script>
+<script>var Rafah = prompt("E o apelido da moça?","")</script>
+<script>var Aline = prompt("Qual o nome da advogada ordinária?","")</script>
+<script>var Jungkook = prompt("Quem é o detetive bonzinho até demais?","")</script>
+<script>var Jeon = prompt("E o sobrenome dele?","")</script>
+<script>var Namjoon = prompt("Qual o nome do delegado?","")</script>
+<script>var Kim = prompt("Qual o sobrenome dele?","")</script>
+<script>var Hoseok = prompt("Qual o nome do capanga mais gostoso do mundo?","")</script>
+<script>var Hobi = prompt("E o apelido carinhoso?","")</script>
+<script>var Hope = prompt("Como ele é conhecido nas ruas?","")</script>
+<script>var Jung = prompt("Por último, o sobrenome dele","")</script>
+<script language="JavaScript"> alert("Foram muitas perguntas, né! Mas já acabou!"); </script>
+<script language="JavaScript"> alert("I think you're ready to face the shadows. Boa leitura."); </script>
+
+
+<center> 
+<a href="//open.spotify.com/playlist/1oDsvVyCktjWh0DJxBCffz?si=907406eb8cd94c37"target="_blank">
+
+<img class="media-object  img-responsive img-thumbnail" src="https://images.unsplash.com/photo-1612988952181-c995680479a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=385&q=80" >
+<br> </center></a></a>
+</head>
+
+
+
+<h1><center>Schatten</center></h1>
+
+
+<div> 
+
+
+<p> <left>
+   <b> Soneto - Para uma Sombra <br></b>
+    
+    <br>
+<i>
+<p>Oh! Passou como uma sombra por meus sonhos,
+<p>Com um suspiro tão suave como a noite,
+<p>Que o murmúrio do vento parecia profundo
+<p>Ao som de sua voz – suave, suave e doce,
+<p>E ela parecia uma visão em meu caminho
+<p>Ao brilho pálido da lua nascente,
+<p>Com raios flutuantes que cintilavam em seu vestido,
+<p>Ela parecia um espírito dos mortos – noite adentro.
+<p>Eu a vi novamente! – mas não em sonhos –
+<p>Como noite, na escuridão do olho fechado!
+<p>Sua imagem voou como um brilho tremulante
+<p>Entre o céu e o mar – como uma estrela agonizante!
+<p>Mas ela sumiu em suas vestes sombrias –
+<p>E eu a vi nunca mais sobre a terra.</i>
+		<p>	(Edgar Allan Poe) 	<br>	
+
+</left>
+<h3><i>Ein</i></h3>
+  <p><script>document.write(Kim)</script> <script>document.write(Namjoon)</script> observava a paisagem acinzentada através da janela do seu escritório, uma visão digna de Gotham City em um dia sombrio. Os faróis dos carros passavam velozes na via expressa, deixando rastros de luz no enorme painel de vidro. Pessoas apressadas, carregando guarda-chuvas, percorriam as calçadas. Era raro chover em Los Angeles, mas naquele dia uma massa cinzenta dominava o céu, envolvendo a cidade em seu manto melancólico.</p>
+
+<p>Uma risada escapou dos lábios de <script>document.write(Namjoon)</script> enquanto ele observava a cena. Será que aqueles transeuntes sabiam que a cidade, naquele momento, parecia uma versão real da sombria Gotham City? Ele se questionava, ciente de que as aparências muitas vezes ocultavam a verdade.</p>
+
+<p>Havia um mês desde que o corpo decapitado e despido de um homem fora encontrado próximo aos cais. Com a boca preenchida por um punhado de arroz, o caso foi tratado pela LAPD como um incidente isolado, provavelmente um ajuste de contas entre membros da máfia. A vítima possuía antecedentes policiais por tráfico de drogas, o que corroborava essa teoria.</p>
+
+<p>No entanto, quinze dias depois, um corpo com o mesmo modus operandi foi descoberto nas proximidades das colinas, não muito longe do icônico letreiro de Hollywood. E, para intensificar a tensão, outro assassinato ocorreu ontem, a poucos metros da delegacia. <script>document.write(Kim)</script> <script>document.write(Namjoon)</script> estava convencido de que esses atos eram obra de Min Yoongi, um notório mafioso com quem ele mantinha uma rivalidade de longa data, desde os tempos em que era detetive, antes de ascender ao cargo de delegado.</p>
+
+<p>Yoongi havia permanecido nas sombras por um bom tempo, desde a prisão de seu braço direito, Taeyang, condenado à prisão perpétua pelo assassinato de uma promotora. No entanto, <script>document.write(Namjoon)</script> sabia que o chefe da máfia estava por trás desses recentes eventos, por diversos motivos. A localização estratégica dos corpos e a forma como foram dispostos indicavam um jogo de mensagens diretas para <script>document.write(Namjoon)</script>. Além disso, a autópsia revelou que as vítimas foram movimentadas após a morte, reforçando a teoria de que Yoongi estava enviando sinais ao delegado.</p>
+
+<p>Enquanto <script>document.write(Namjoon)</script> encarava a paisagem urbana e as sombras que encobriam Los Angeles, sentia-se cada vez mais determinado a capturar Min Yoongi e expor seus planos sinistros. A cidade precisava de justiça, e ele de vingança. </p>
+
+<p><script>document.write(Aline)</script> <script>document.write(Almeida)</script> atravessou a elegante recepção da LAPD com confiança, seus saltos Louboutin ecoando pelo linóleo com um som distinto. Cada funcionário público na sala parecia virar a cabeça em sua direção, alguns se esticando por cima das divisórias de seus cubículos, outros levantando-se com desculpas triviais para se aproximar. <script>document.write(Aline)</script> não pôde deixar de sorrir satisfeita com o impacto que causava. Era uma mulher deslumbrante, no auge de seus impressionantes um metro e setenta e quatro de altura, realçados pelos modestos cinco centímetros adicionados pelos saltos. Sua presença exalava imponência e sensualidade, conquistando a atenção de praticamente todos os homens ao seu redor. Exceto um: seu chefe, Min Yoongi. Coincidentemente, ele era a razão pela qual ela estava ali naquele momento.</p>
+
+<p><script>document.write(Aline)</script> conhecia o delegado <script>document.write(Kim)</script> <script>document.write(Namjoon)</script> pelo nome e sabia da longa contenda entre ele e Yoongi. <script>document.write(Namjoon)</script> tinha apreendido o mentor e comparsa de Yoongi na máfia, pressionando a promotoria para garantir uma prisão perpétua. Esse caso certamente ajudou <script>document.write(Namjoon)</script> a subir na hierarquia da polícia de Los Angeles, mas também mandou Yoongi e toda a Haegeum, organização criminosa, para o exílio. Além disso, diversos negócios obscuros foram desmantelados e expostos após o julgamento de Taeyang. No entanto, já se passaram oito anos desde aqueles acontecimentos, e agora a Haegeum tinha <script>document.write(Aline)</script> como sua advogada, simplesmente a melhor de Los Angeles e talvez de toda a costa oeste.</p>
+
+<p><script>document.write(Kim)</script> <script>document.write(Namjoon)</script> estava prestes a passar de um Jim Gordon respeitável para um Stanley Millburn covarde em questão de segundos.</p>
+
+<p>Ela adentrou o escritório de <script>document.write(Namjoon)</script> com determinação, empurrando a porta sem se anunciar. Afinal, ele a havia convocado para aquele encontro e certamente a tinha visto se aproximando através do vidro parcialmente coberto pela persiana, que oferecia uma visão panorâmica da movimentada delegacia.</p>
+
+<p><script>document.write(Aline)</script> não sabia exatamente o que esperar da sala do renomado <script>document.write(Kim)</script> <script>document.write(Namjoon)</script>, mas era similar a tantas outras salas de prédios governamentais: de um bege monótono e sem vida, adornada com alguns recortes de jornal que enalteciam seus feitos mais importantes ao longo da carreira, emoldurados de forma modesta. No entanto, algo que não seguia a mesma modéstia era o próprio delegado. Ele parecia ter saído diretamente da capa de uma revista de moda, com seus cabelos castanhos cuidadosamente penteado para trás, a pele dourada que irradiava mesmo sob a luz fria e desanimadora das lâmpadas fluorescentes, e seus olhos oblíquos e penetrantes, capazes de deixar qualquer um desconcertado.</p>
+
+<p>Mas <script>document.write(Aline)</script> não era uma pessoa qualquer, e ela fazia questão de deixar isso claro enquanto caminhava em direção à mesa de <script>document.write(Namjoon)</script>, fixando-o com seu olhar intenso de olhos verdes, que se destacavam ainda mais em contraste com seus cabelos ruivos acobreados e o elegante conjunto social verde musgo que ela usava. Foi somente quando estava diante dele, do outro lado da mesa, que ela falou com voz clara e firme:</p>
+
+<p>-Você me chamou, delegado? </p>
+
+<p><script>document.write(Namjoon)</script> observou atentamente a mulher à sua frente, seus olhos curiosos percorrendo cada detalhe de seu rosto. Ele já havia visto inúmeras fotos de <script>document.write(Aline)</script> ao lado de Yoongi, capturadas principalmente por Yeonjun durante suas operações de espionagem. No entanto, nenhuma imagem conseguia transmitir com precisão a verdadeira beleza que a mulher possuía. Por um breve instante, ele quase se deixou envolver por sua presença, quase esquecendo o motivo que a havia levado até ali. Quase</p>
+
+<p>Ainda não tivemos o prazer de uma apresentação formal, senhorita <script>document.write(Almeida)</script> - ele se levantou de sua cadeira, estendendo o braço para cumprimentá-la com um aperto de mãos firme. - É senhorita, correto?</p>
+
+<p><script>document.write(Aline)</script> respondeu com um sorriso carregado de desprezo, suas palavras ecoando em um tom soberbo:</p>
+
+<p>-Se deseja saber se sou solteira, pode perguntar diretamente, delegado. Não precisa rodeios.</p>
+
+<p><script>document.write(Namjoon)</script> arqueou levemente a sobrancelha, um tanto incrédulo. Agora, além do caráter duvidoso e da associação criminosa, ele adicionava egocentrismo e insubordinação à lista de defeitos da mulher.</p>
+
+<p>Decidindo não se deixar abalar pelas provocações, ele indicou a cadeira à sua frente, convidando-a a se sentar, enquanto ele mesmo se recostava em sua própria cadeira, observando-a com um olhar analítico.</p>
+
+<p>-Acredito que já tenha uma ideia do motivo pelo qual a chamei aqui - disse ele, mantendo a compostura.</p>
+
+<p>Ela estalou os lábios com um ar de desdém, desafiando-o com suas palavras:</p>
+
+<p>-Na verdade, não faço ideia. Por favor, me ilumine.</p>
+
+<p>Ficou claro para <script>document.write(Namjoon)</script> que <script>document.write(Aline)</script> seria um desafio a ser superado e não uma aliada, seu plano de avançar na investigação do caso com o auxílio dela estava ameaçado. Com um leve sorriso nos lábios, o delegado decidiu ir direto ao ponto.</p>
+
+<p>-Senhorita <script>document.write(Almeida)</script>, permita-me ser direto-, começou ele, sua voz firme e calma. -Eu a chamei aqui para discutirmos a sua associação com Min Yoongi e a máfia Haegeum.</p>
+
+<p><script>document.write(Aline)</script> ergueu uma sobrancelha, fingindo surpresa. </p>
+
+<p>-Oh, delegado, você mais do que ninguém deveria saber o quão perigoso é trabalhar com especulações. Não sou responsável pelas escolhas dos meus clientes.</p>
+
+<p><script>document.write(Namjoon)</script> permaneceu inabalável diante da negação da advogada. </p>
+
+<p>-Ora, <script>document.write(Aline)</script>... Tenho evidências suficientes para suspeitar de sua participação nos negócios ilegais de Yoongi. Sua presença constante ao lado dele e a forma como defende seus interesses levantaram suspeitas legítimas.</p>
+
+<p> <script>document.write(Aline)</script> soltou uma risada desdenhosa. </p>
+
+<p> -Suspeitas legítimas? Isso é tudo o que você tem? Desculpe, delegado, mas não há nada que comprove minha ligação com atividades criminosas."</p>
+
+<p> <script>document.write(Namjoon)</script> se inclinou ligeiramente para a frente, seu olhar se intensificando, queimando a pele de <script>document.write(Aline)</script> como brasas. </p>
+
+<p> -Eu sou conhecido por ser implacável em minhas investigações, <script>document.write(Aline)</script>. Não me engano facilmente. Logo teremos provas concretas para apoiar nossas suspeitas. Essa conversa foi apenas uma cortesia estendida a você, uma mulher tão jovem e que trabalhou tão duro, e não vai querer ver tudo indo por água abaixo por causa de um delinquente.</p>
+
+<p>A advogada não escondeu a expressão desafiadora em seu rosto. </p>
+
+<p>-E o que pretende fazer, delegado? Prender-me com base em conjecturas? Não há nada que possa me incriminar.</p>
+
+<p><script>document.write(Namjoon)</script> se recostou em sua cadeira, mantendo a calma apesar da pressão crescente. Não pôde deixar de se sentir intrigado pela forma como <script>document.write(Aline)</script> agia.</p>
+
+<p>-Oh, não se preocupe, senhorita <script>document.write(Almeida)</script>. Não pretendo agir precipitadamente-, seu tom pingava veneno. -Estou construindo um caso sólido contra a máfia Haegeum, Min Yoongi e você está no centro deste furacão. Sua hora irá chegar.</p>
+
+<p><script>document.write(Aline)</script> levantou-se calmamente, seu olhar gelado pairando sobre a figura sentada à sua frente. </p>
+
+<p>-Você não tem nada contra mim, <script>document.write(Namjoon)</script>! Sou uma advogada respeitada, e não permitirei que manche minha reputação sem provas concretas.</p>
+
+<p><script>document.write(Namjoon)</script> se levantou com calma, encontrando o olhar desafiador de <script>document.write(Aline)</script>. </p>
+
+<p>-Esteja ciente, senhorita <script>document.write(Almeida)</script>, que estou de olho em cada passo que você dá. Tarde ou cedo, a verdade virá à tona, e eu estarei aqui para garantir que a justiça seja feita.</p>
+
+<p><script>document.write(Rafaela)</script> ouviu duas batidinhas discretas na porta de madeira maciça do seu elegante escritório na Mono Arquitetura. Não estava esperando ninguém além de Alison para finalizar os últimos ajustes no projeto de um restaurante na movimentada Figueroa Avenue. Sua agenda estava vazia para o resto do dia, não havia nenhum compromisso marcado.</p>
+
+<p>Ashley, sua secretária, uma garota franzina de cabelos loiros e sardas no rosto, apareceu com um sorriso amarelo, enfiando apenas a cabeça pela porta. Ela sabia muito bem que a chefe não apreciava visitas inesperadas ou sem agendamento, ainda mais às vésperas de uma importante reunião com a sócia.</p>
+
+<p>-Tem um rapaz querendo falar com você - anunciou em tom relutante, ciente das preferências de <script>document.write(Rafaela)</script>.</p>
+
+<p>-Mande-o voltar em outro momento - respondeu a arquiteta, mal desviando os olhos do seu MacBook.</p>
+
+<p>Ashley mordeu os lábios nervosamente e adentrou a sala, em uma atitude no mínimo estranha. <script>document.write(Rafaela)</script> retirou os óculos do rosto, revelando sua expressão confusa.</p>
+
+<p>-O que foi? - indagou, intrigada.</p>
+
+<p>-Ele é um pouco estranho, <script>document.write(Rafah)</script> - Ashley retrucou num tom suplicante. - Vai lá, por favor?</p>
+
+<p><script>document.write(Rafaela)</script> suspirou profundamente, levantando-se de imediato. Um dos maiores defeitos de Ashley era não saber como lidar com clientes difíceis. A pobre garota ficava à beira das lágrimas ao menor sinal de um tom de voz alterado. Determinada, <script>document.write(Rafaela)</script> caminhou para fora de sua sala. </p>
+
+<p>Escorado no guichê onde Ashley costumava recepcionar os visitantes, estava um homem asiático de estatura esguia, cuja presença chamava a atenção imediatamente. Seus cabelos descoloridos eram uma expressão ousada de sua personalidade única. A cabeleira estilizada de forma extravagante adicionava uma dose de excentricidade ao seu visual.</p>
+
+<p>Seu estilo de vestir não passava despercebido. Ele trajava uma calça cargo repleta de correntes, que pendiam com um certo balanço conforme ele se movia. Cada detalhe da vestimenta parecia ser cuidadosamente escolhido para transmitir uma imagem audaciosa e rebelde. Por baixo da jaqueta multicolorida, que parecia ter sido grafitada em uma parede de um beco qualquer de Los Angeles, havia uma camiseta preta lisa, que servia de base neutra para as cores vivas e chamativas da jaqueta.</p>
+
+<p>Sua postura descontraída e despojada contrastava com o ambiente formal do escritório de arquitetura. Os olhos curiosos de <script>document.write(Rafaela)</script> puderam captar a presença marcante e o ar de mistério que envolvia aquele homem desconhecido. Ele parecia estar à vontade em meio àquela atmosfera corporativa, como se estivesse acostumado a destoar dos padrões estabelecidos.</p>
+
+<p>A presença dele ali na Mono Arquitetura, situada em uma das avenidas mais movimentadas de Los Angeles, criava um contraste visual e estilístico notável. <script>document.write(Rafaela)</script>, sentia-se intrigada com a figura peculiar à sua frente.</p>
+
+<p>-Em que posso ajudá-lo? - A voz de <script>document.write(Rafaela)</script> ecoou pela recepção, interrompendo a atmosfera de curiosidade que pairava entre eles. Ela se esforçou para manter a postura, caminhando em direção ao homem com determinação, embora o seu coração batesse mais rápido do que o habitual.</p>
+
+<p>Enquanto se aproximava, <script>document.write(Rafaela)</script> pôde sentir o olhar do homem percorrendo cada centímetro de seu corpo, como se ele a desvendasse apenas com os olhos. Apesar de estar vestida com um longo vestido de algodão, ela se sentiu vulnerável diante de seu olhar perspicaz.</p>
+
+<p>O homem a observava com divertimento, um sorriso malicioso brincando em seus lábios. <script>document.write(Rafaela)</script> tentou manter a seriedade, mas era difícil resistir àquele charme descontraído que ele irradiava.</p>
+
+<p>-Não vai nem me dar a chance de me apresentar? - ele indagou, quebrando o breve silêncio que se formou entre eles. Sua voz era descontraída e envolvente.</p>
+
+<p>A arquiteta sentiu um arrepio percorrer sua espinha ao captar o aroma da colônia masculina que emanava dele, mesmo à distância. Havia algo magnético e perturbador na presença daquele homem, algo que a deixava desconfortável e, ao mesmo tempo, fascinada.</p>
+
+<p>-Perdão. - <script>document.write(Rafaela)</script> forçou um sorriso, tentando esconder o desconforto que sentia. - Qual o seu nome? Você tinha uma reunião marcada com a Alison?</p>
+
+<p>Enquanto esperava pela resposta, ela tentava decifrar as intenções e a verdadeira identidade daquele homem intrigante. A Mono Arquitetura era conhecida por atrair clientes de diferentes perfis, mas algo lhe dizia que ele não era apenas mais um cliente comum.</p>
+
+<p>O homem asiático inclinou levemente a cabeça, um sorriso enigmático brilhando em seus lábios enquanto observava <script>document.write(Rafaela)</script> com um olhar perspicaz. Seus olhos castanhos escuros pareciam conter segredos profundos, e havia um brilho de malícia e curiosidade neles que mexia com a arquiteta.</p>
+
+<p>-Meu nome é <script>document.write(Hoseok)</script>. <script>document.write(Jung)</script><script>document.write(Hoseok)</script> - Ele respondeu, sua voz suave e envolvente ecoando na sala. -E não, eu não tinha uma reunião marcada com Alison. Na verdade, estou aqui para falar com você, <script>document.write(Rafaela)</script>.</p>
+
+<p>O coração de <script>document.write(Rafaela)</script> deu um salto. Como ele sabia o nome dela? E por que ele a procuraria especificamente? O ar ficou carregado de tensão enquanto ela tentava decifrar os motivos por trás daquele encontro inesperado.</p>
+
+<p>-Comigo? - Ela perguntou, um leve tremor em sua voz. - Desculpe, mas eu não me recordo de termos nos conhecido antes.</p>
+
+<p><script>document.write(Hoseok)</script> lançou-lhe um olhar perspicaz, como se estivesse analisando cada reação dela. O sorriso nos lábios dele se alargou, revelando um leve brilho divertido.</p>
+
+<p>-Ah, mas creio que já nos conhecemos, mesmo que indiretamente. - Ele respondeu enigmaticamente. - Eu ouvi falar muito sobre você e seu talento como arquiteta renomada, sua fama na cidade não passa despercebida. </p>
+
+<p>Ela conseguia praticamente ouvir a respiração de Ashley em sua nuca, outro defeito da secretária era ser extremamente intrometida.</p>
+
+<p>-Vem, vamos conversar na minha sala, senhor Jung. </p>
+
+<p>Ashley tomou de volta o seu posto na recepção, mas observava atentamente o homem seguir sua chefe pelo corredor.</p>
+
+<p>A presença de <script>document.write(Hoseok)</script> era tão envolvente que <script>document.write(Rafaela)</script> sentia seu corpo arrepiar-se enquanto caminhavam em direção à sua sala. Cada passo que ele dava parecia ecoar pelos corredores do local. Ao entrarem na sala, <script>document.write(Rafaela)</script> indicou um assento na frente de sua imponente mesa de trabalho, feita de madeira maciça. A luz suave do candelabro pendurado no teto destacava as linhas elegantes e contemporâneas do ambiente. As paredes, revestidas com um papel de parede de textura sutil, exibiam fotografias de projetos arquitetônicos premiados, que ilustravam a expertise e o bom gosto da empresa.</p>
+
+<p>Enquanto <script>document.write(Rafaela)</script> se acomodava em sua cadeira estofada, forrada com um tecido de cores vivas, seus olhos encontravam-se novamente com os de <script>document.write(Hoseok)</script>. A intensidade de seu olhar a deixava intrigada, revelando um misto de confiança e mistério. As luzes do escritório dançavam em reflexos sutis nas mechas descoloridas de seu cabelo, destacando sua expressão sedutora.</p>
+
+<p>A arquiteta percebeu que a presença de Ashley na recepção se tornara uma mera lembrança distante. Agora, era apenas ela e o desconhecido  naquele ambiente, envoltos em uma atmosfera carregada de tensão e curiosidade. </p>
+
+<p><script>document.write(Rafaela)</script> foi quem rompeu o silêncio, buscando retomar o controle da situação. Sua voz soou firme, contrastando com a suavidade da decoração ao redor.</p>
+
+<p>-Então, senhor Jung, como posso ajudá-lo? Qual é o motivo de sua visita inesperada?</p>
+
+<p><script>document.write(Hoseok)</script> se acomodou na cadeira, esticando as pernas e apoiando o cotovelo no tampo de madeira polida. Seu olhar penetrante encontrou-se com o dela enquanto ele lançava uma proposta intrigante.</p>
+
+<p>-Meu chefe é o proprietário de um edifício icônico aqui na região, talvez você já tenha ouvido falar dele. O majestoso Emerald Tower na prestigiada Melrose Avenue - disse ele, de forma casual, deixando no ar um ar de exclusividade - e ele está planejando revitalizá-lo para seus... empreendimentos.</p>
+
+<p><script>document.write(Rafaela)</script> fingiu não perceber a ênfase que ele deu à palavra "empreendimentos", insinuando algo além do óbvio. Ela manteve sua expressão impassível, mas por dentro estava curiosa com as possibilidades que aquele projeto poderia trazer.</p>
+
+<p><script>document.write(Hoseok)</script> continuou, enquanto seus olhos analíticos estudavam cada reação dela.</p>
+
+<p>-No entanto, o local tem estado abandonado há cerca de oito anos e está claramente precisando de uma reforma. E, considerando que essa é uma das suas especialidades...</p>
+
+<p>A arquiteta sentiu uma faísca de interesse despertar em seu interior. Claro que ela conhecia a Emerald Tower, um prédio imponente que já foi o endereço de grandes empresas, mas que havia caído em desuso por anos.Mas <script>document.write(Rafaela)</script> também sabia da história obscura por detrás do seu funcionamento e o motivo pelo qual fora deixado abandonado. Seu marido, <script>document.write(Jungkook)</script>, havia lhe contado aquela história centenas de vezes, um misto de fascínio e medo sempre a acompanhava quando ouvia falar sobre a torre. A oportunidade de transformar um edifício emblemático, devolvendo-lhe sua antiga glória, era uma perspectiva emocionante para ela, trabalhar para um conhecido mafioso, nem tanto. </p>
+
+<p>-Me parece uma proposta tentadora, senhor Jung. Entretanto, não sei se é um trabalho exatamente para mim - ela enfatizou a última palavra - imagino que vocês prezam por agilidade e eu...</p>
+
+<p>Mas ele a interrompeu, os olhos reluzindo com um fascínio e certa diversão.</p>
+
+<p>-Este é um trabalho para você e ninguém mais, <script>document.write(Rafaela)</script> - ele murmurou em um tom aveludado, como quem conta um segredo - você me diz o seu preço, e eu farei o que estiver ao meu alcance para te recompensar de maneira apropriada, estou disposto a esperar pacientemente.</p>
+
+<p>Ela teve a inquietante sensação de que ele não falava apenas de recompensa financeira. <script>document.write(Rafaela)</script> sentia o suor frio brotando em sua nuca, enquanto seu cérebro buscava desesperadamente maneiras de escapar daquela situação inquietante o mais rápido possível. O olhar enigmático de <script>document.write(Hoseok)</script> a desconcertava, parecia ler seus pensamentos mais íntimos, e sua voz grave e sedutora a tirava dos eixos. Cada segundo na presença daquele homem parecia seu inferno pessoal, uma batalha entre o medo e a atração inexplicável que ele despertava nela.</p>
+
+<p>-Tudo bem se fizermos uma visita antes? - ela se agarrou em sua desculpa como quem agarra um bote salva-vidas, buscando uma maneira de ganhar tempo e buscar uma forma de sair daquela situação.</p>
+
+<p><script>document.write(Hoseok)</script> sorriu vitorioso, revelando uma fileira perfeita de dentes brancos. A expressão em seu rosto era um misto de satisfação e expectativa.</p>
+
+<p>-Claro. Passo amanhã na hora do almoço para te buscar. Vista algo... Menos fofo - ele rebateu, lançando um olhar rápido para o vestido longo rosa que ela trajava, como se desaprovando a escolha.</p>
+
+<p>-Não se preocupe, senhor Jung, eu sei como me vestir apropriadamente para uma obra. - ela rebateu, levemente irritada, desejando disfarçar a turbulência emocional que tomava conta de si.</p>
+
+<p>-É claro que sabe - ele respondeu num tom malicioso, enquanto saía pela porta. </p>
+
+<p>A noite em Los Angeles era tão chuvosa quanto o dia havia prometido. Gotas de chuva caíam incessantemente, criando um ambiente melancólico e enigmático. Min Yoongi saiu de seu carro preto impecável em frente ao Beverly Wilshire, um verdadeiro marco de luxo na cidade. A imponência do edifício contrastava com a atmosfera peculiar que pairava sobre a cidade dos anjos naquela noite. Yoongi sabia que havia algo mais do que apenas a chuva estranha em Los Angeles, e ele estava disposto a desvendar todos os mistérios que a envolviam.</p>
+
+<p>Com a confiança de quem conhecia os corredores daquele hotel tão bem quanto sua própria casa, ele adentrou o elegante foyer, sempre acompanhado de perto por Hoshi, seu fiel braço direito. Sem perder tempo, seguiu determinado em direção ao restaurante do local, onde encontraria a mulher ruiva que o aguardava. O ambiente estava incomumente vazio naquela noite, adicionando um toque de mistério à reunião que estava prestes a acontecer.</p>
+
+<p>Ao avistar a mulher com seu vestido preto exuberante, Yoongi não pôde conter uma risada anasalada. Embora não entendesse, sabia que <script>document.write(Aline)</script> tinha um apelo inexplicável que atraía a maioria dos homens, com certeza o delegado <script>document.write(Kim)</script> ficara abalado. Sem cerimônias, ele puxou a cadeira em frente a ela e dispensou Hoshi com um gesto de sua mão, deixando-os a sós.</p>
+
+<p>-Então? - perguntou Yoongi, direto ao ponto - Como foi?</p>
+
+<p><script>document.write(Aline)</script> suspirou, demonstrando certo enfado, e tomou um gole demorado de seu chardonnay antes de responder.</p>
+
+<p>Ele não tem absolutamente nada. Foi apenas uma tentativa frustrada de jogar verde - explicou ela. - No entanto, está claro que existe uma rixa entre vocês que não desaparecerá tão facilmente.</p>
+
+<p>Yoongi não ficou surpreso. Ele sabia que <script>document.write(Namjoon)</script> considerava um grande fracasso tê-lo deixado escapar ileso daquele julgamento, sem nenhuma condenação.</p>
+
+<p>-Não me importo em mediar esse conflito - desdenhou ele. - Contanto que ele não tenha nada concreto contra mim.</p>
+
+<p><script>document.write(Aline)</script> arqueou uma sobrancelha bem desenhada, expressando curiosidade.</p>
+
+<p>-Até o momento, ele está completamente às escuras - declarou ela. - Nem mesmo me disse do que está me acusando. Mas - continuou em um tom grave - ele é claramente um homem perigoso e tem motivação suficiente para derrubá-lo. Não deve ser subestimado.</p>
+
+<p>Yoongi envolveu o copo de whisky recém-servido pelo maitre em suas mãos e levou o recipiente aos lábios, saboreando o líquido âmbar com tranquilidade.</p>
+
+<p>-Não pretendo subestimá-lo. Vou cercá-lo de todas as formas possíveis enquanto ele continua cego pela vingança. Sua sede será sua própria ruína.</p>
+
+<p>Hoshi aproximou-se da dupla, acompanhado desta vez por <script>document.write(Hoseok)</script>, que conversava animadamente com o mais jovem. As roupas extravagantes de <script>document.write(Hoseok)</script>, no estilo street, destacavam-se consideravelmente em contraste com as pessoas ao seu redor. Era impossível não chamar atenção por onde quer que ele passasse. O loiro tomou a liberdade de se sentar em uma das cadeiras vazias à mesa. <script>document.write(Aline)</script> observou-o com curiosidade, embora soubesse que <script>document.write(Hoseok)</script> era o braço direito de Yoongi, era difícil acreditar que aquele homem tão descontraído fosse capaz de cometer atrocidades.</p>
+
+<p>Yoongi dirigiu-se a eles com um olhar carregado de significado.</p>
+
+<p>-Tudo certo? - perguntou, deixando a pergunta suspensa no ar.</p>
+
+<p>O loiro assentiu com confiança.</p>
+
+<p>-Sim, está tudo sob controle. Amanhã, por volta da hora do almoço, estarei na Emerald Tower com a nossa arquiteta.</p>
+
+<p><script>document.write(Aline)</script>, intrigada, fitou <script>document.write(Hoseok)</script> com interesse. A ideia de que ele estivesse envolvido em um projeto arquitetônico parecia contraditória à sua imagem descontraída. Era difícil conciliar as duas faces daquele homem.</p>
+
+<p>-Ela concordou com o projeto? - questionou Yoongi, saboreando seu whisky com calma.</p>
+
+<p><script>document.write(Hoseok)</script> sorriu de maneira pragmática, revelando sua confiança inabalável.</p>
+
+<p>-Ainda não, mas não se preocupe, em breve nossa visão se tornará realidade. A obra estará em andamento antes que perceba. </p>
+
+<p><script>document.write(Aline)</script> ergueu-se em sua cadeira, demonstrando um interesse renovado.</p>
+
+<p>-Arquiteta? Vocês vão realizar uma grande construção?</p>
+
+<p>Yoongi lançou-lhe um olhar repreensivo, transmitindo a mensagem de que certas informações eram melhor mantidas em sigilo.</p>
+
+<p>-<script>document.write(Aline)</script>, há certas coisas das quais é melhor você não estar ciente.</p>
+
+<p> </p>
+
+<p>O jantar de negócios do trio foi breve, e em pouco tempo <script>document.write(Aline)</script> encontrava-se ao volante de seu Audi, percorrendo as ruas em direção ao seu luxuoso apartamento em Bel Air. Enquanto contemplava os rumos que sua carreira havia tomado, ela mantinha-se imperturbável, raramente permitindo que o arrependimento aflorasse. Embora enfrentasse críticas e julgamentos por defender clientes com reputações questionáveis, o conforto que essa escolha lhe proporcionava era um peso maior em sua balança pessoal. Além disso, a oportunidade de financiar causas pro bono em benefício daqueles menos afortunados dava sentido à sua jornada.</p>
+
+<p><script>document.write(Aline)</script> tinha cruzado o caminho de Yoongi logo após sair do emprego na firma de advocacia de Tom Tornam, seu ex-chefe desagradável e assediador. A fama de <script>document.write(Aline)</script> se espalhara pelos círculos jurídicos de Los Angeles quando ela expôs os crimes de colarinho branco cometidos pelo renomado advogado das estrelas. Foi então que Yoongi entrou em sua vida, tornando-se um elemento constante. No entanto, a relação entre eles era estritamente profissional. <script>document.write(Aline)</script> fazia questão de garantir que nenhum dos atos criminosos associados à Haegeum ultrapassasse seus limites morais. Enquanto Yoongi estivesse envolvido com o tráfico de drogas, lavagem de dinheiro e enfrentando policiais corruptos, ela considerava sua colaboração justificável.</p>
+
+<p>As vazias ameaças de um certo delegado não a intimidavam. <script>document.write(Aline)</script> havia enfrentado inimigos muito maiores e definitivamente mais perigosos ao longo de sua carreira. No entanto, ela não conseguia evitar que seus pensamentos analisassem minuciosamente o encontro recente. Não era comum encontrar alguém que a desafiasse como aquele delegado havia feito, e isso despertava nela uma certa adrenalina, um senso de competição, uma necessidade de provar sua supremacia. Nem sempre a melhor advogada de Los Angeles precisava se superar, mas quando a oportunidade surgia, ela abraçava o desafio com avidez.</p>
+
+<p>Enquanto isso, do outro lado da cidade, o detetive <script>document.write(Jeon)</script> <script>document.write(Jungkook)</script> encontrava-se em seu escritório, localizado no belo e aconchegante apartamento que compartilhava com sua esposa. O ambiente era iluminado pela luz suave de uma luminária de mesa, destacando as prateleiras repletas de livros e os diversos arquivos espalhados pela mesa de madeira escura. O aroma sutil de café pairava no ar, indicando a presença de uma xícara vazia ao lado do detetive.</p>
+
+<p>Absorto na leitura do relatório do caso dos recentes assassinatos em Los Angeles, conhecido como o "Assassino das Sombras", <script>document.write(Jungkook)</script> não conseguia evitar uma sensação de inquietação. Tanto ele quanto seu mentor, o delegado <script>document.write(Kim)</script> <script>document.write(Namjoon)</script>, sentiam que algo importante estava escapando de suas mãos. Apesar de <script>document.write(Namjoon)</script> estar convicto de que as mortes eram obra de Min Yoongi, o líder da Haegeum, e de que o modus operandi coincidia com o estilo de execução da máfia, <script>document.write(Jungkook)</script> sentia que havia algo além disso. Havia um elemento que eles não estavam conseguindo enxergar, uma peça que faltava no quebra-cabeça.</p>
+
+<p>Uma batida suave na porta interrompeu seus pensamentos, e <script>document.write(Jungkook)</script> viu sua esposa, <script>document.write(Rafaela)</script>, parada no limiar do escritório. Seus olhos castanhos transmitiam uma mistura de afeto e preocupação, uma expressão que <script>document.write(Jungkook)</script> conhecia bem. Ele forçou um sorriso ao recebê-la.</p>
+
+<p>-Oi - ela cumprimentou com doçura, mantendo metade de seu corpo dentro do escritório e a outra metade do lado de fora.</p>
+
+<p><script>document.write(Jungkook)</script> notou que a esposa havia trabalhado até mais tarde naquela noite, mas antes que pudesse comentar sobre isso, ela parecia exasperada para compartilhar algo.</p>
+
+<p>-Amor, preciso te contar algo - ela começou, interrompida pela pressa repentina de <script>document.write(Jungkook)</script>.</p>
+
+<p>-Por mais que eu esteja louco para ouvir alguma fofoca do escritório, estou revisando o caso dos assassinatos agora - ele respondeu, sua voz carregada de urgência, enquanto reunia os arquivos e as fotos gráficas espalhadas pela mesa.</p>
+
+<p><script>document.write(Rafaela)</script> revirou os olhos em resposta.</p>
+
+<p>-E quando é que você não está revisando esse caso? - provocou, com um tom de voz carregado de frustração.</p>
+
+<p><script>document.write(Jungkook)</script> sabia que aquela não era apenas uma pergunta casual. <script>document.write(Rafaela)</script> estava expressando sua insatisfação e ressentimento de maneira indireta. No entanto, antes que ele pudesse responder, sua esposa virou-se abruptamente e deixou o cômodo, fazendo questão de bater os pés com força no chão, evidenciando sua irritação.</p>
+
+<p>Enquanto o som dos passos distantes de <script>document.write(Rafaela)</script> ecoava pelo apartamento, <script>document.write(Jungkook)</script> não pôde evitar uma onda de tristeza e reflexão. "Quando ela não está brava ultimamente?" Questionou-se internamente. Ele sabia que o relacionamento deles estava passando por dificuldades, e a culpa pesava sobre seus ombros.</p>
+
+<p>Respirando fundo, ele voltou sua atenção para o trabalho diante de si. Os detalhes sombrios do caso dos assassinatos aguardavam sua análise minuciosa, e <script>document.write(Jungkook)</script> estava determinado a descobrir a verdade oculta nas sombras.</p>
+
+<h3><i>Zwei</i></h3>
+
+<p>"Nas sombras da noite, teço minha trama mortal. </p>
+
+<p>Cada passo seu, cada suspiro seu, observo com prazer. </p>
+
+<p>Eu sou a escuridão que o envolve, o pesadelo que o persegue.</p>
+
+<p>Prepare-se, pois o jogo está apenas começando."</p>
+
+<p><script>document.write(Namjoon)</script> encarava o bilhete ensanguentado à sua frente, trazido por <script>document.write(Jungkook)</script> em um saco de evidências lacrado e sujo de sangue salpicado da vítima que havia sido morta, assim como as outras. A vítima estava decapitada, desnuda, e com um punhado de arroz em sua boca. Não havia assinatura nem impressões digitais no papel; parecia ter sido escrito por um fantasma.</p>
+
+<p>-Nada novo na análise do DNA? - <script>document.write(Namjoon)</script> questionou, visivelmente preocupado.</p>
+
+<p>O homem moreno à sua frente balançou a cabeça em negativa, seus cabelos negros enquadram seu belo rosto com uma expressão preocupada.</p>
+
+<p>-Nada, está limpo como se tivesse sido lavado com água sanitária antes de ser desovado. - Assim que as palavras de <script>document.write(Jungkook)</script> deixaram sua boca e ele as ouviu claramente, a ficha caiu para <script>document.write(Namjoon)</script>. - Aliás, se não me engano, em um dos relatórios uma das vítimas continha vestígios de alvejante em uma cavidade, mas em uma quantidade tão pequena que sequer foi considerado um indício de qualquer coisa.</p>
+
+<p><script>document.write(Namjoon)</script> franziu o cenho, olhando preocupado para o mais jovem.</p>
+
+<p>-Quantas vezes você releu essas fichas para ter decorado esse tipo de detalhe de cabeça?</p>
+
+<p><script>document.write(Jungkook)</script> fingiu não ouvir. Ele estava cansado dos sermões intermináveis do chefe sobre sua dedicação ao trabalho, como se <script>document.write(Kim)</script> <script>document.write(Namjoon)</script> não tivesse uma vida fora da delegacia. <script>document.write(Jeon)</script> sabia que estava realizando um trabalho importante, salvando vidas, algo que não poderia esperar.</p>
+
+<p>-Aqui - ele estendeu a ficha da segunda vítima para <script>document.write(Namjoon)</script>. Era um homem de meia-idade não identificado, encontrado próximo às colinas. As marcas em seus dedos dos pés indicavam que ele era um viciado, provavelmente morava na rua - Sua data estimada de morte é 27 de Setembro, por volta das 18h23. Podemos investigar as lojas daquela área para encontrar alguém que tenha comprado uma grande quantidade de alvejante nos dias que antecederam sua morte.</p>
+
+<p><script>document.write(Namjoon)</script> coçou a sobrancelha.</p>
+
+<p>-Acho que é um tiro no escuro.</p>
+
+<p>O delegado considerava aquilo um esforço em vão, muitos recursos e mobilização de pessoal para um resultado tão pequeno. Estavam procurando uma agulha no palheiro enquanto uma espingarda permanecia engatilhada e apontada para a cabeça da população. Além do mais, a pista do bilhete, algo novo, parecia uma provocação baseada na promessa que ele havia feito àquela advogada da máfia. </p>
+
+<p><script>document.write(Jungkook)</script> jogou o arquivo em cima da mesa, visivelmente frustrado, enquanto caminhava ao redor da sala, arregaçando as mangas de sua camisa social branca.</p>
+
+<p>-É tudo o que temos, senhor - ele murmurou, encarando a grande janela do escritório de <script>document.write(Namjoon)</script>.</p>
+
+<p>Já reli todos os arquivos, relatórios, revirei todas as evidências e reli o depoimento de todas as testemunhas.</p>
+
+<p>-Tudo bem - <script>document.write(Namjoon)</script> finalmente concordou - coordene a operação, quero todos à paisana para chamar o mínimo de atenção possível.</p>
+
+<p>O mais jovem parecia ter recebido uma injeção de ânimo com a aprovação de seu superior, mas foi chamado de volta antes de fechar a porta.</p>
+
+<p>-Ei, <script>document.write(Jungkook)</script>, como estão as coisas entre você e a <script>document.write(Rafaela)</script>?</p>
+
+<p>O tom de <script>document.write(Namjoon)</script> era hesitante, ele não tinha muita habilidade social para perguntar sobre a vida pessoal de <script>document.write(Jungkook)</script>. Os dois eram excelentes colegas de trabalho, mas raramente conversavam sobre assuntos pessoais.</p>
+
+<p><script>document.write(Jeon)</script> desviou o olhar de seu superior, fitando o chão brevemente antes de murmurar um "bem".</p>
+
+<p>Era mentira. <script>document.write(Namjoon)</script> sabia.</p>
+
+<p>-Tome cuidado com o trabalho, <script>document.write(Jungkook)</script>. - <script>document.write(Namjoon)</script> advertiu, com os braços cruzados - não deixe que ele consuma sua vida, as pessoas ao nosso redor também precisam de nós. Não podemos salvar o mundo e ignorar nossos relacionamentos pessoais.</p>
+
+<p><script>document.write(Jungkook)</script> apenas assentiu, sem prolongar ainda mais o assunto que claramente era um tópico desconfortável para ambos. </p>
+
+<p><script>document.write(Namjoon)</script> afundou-se em sua cadeira após a saída do jovem detetive, refletindo sobre a situação. Ele conhecia <script>document.write(Jungkook)</script> desde o início de sua carreira, quando <script>document.write(Namjoon)</script> ainda era um detetive como <script>document.write(Jeon)</script> agora. O rapaz sempre fora extremamente dedicado ao trabalho, cheio de ideais e sonhos. Naquela época, ele era apenas noivo de <script>document.write(Rafaela)</script>, e durante uma de suas muitas conversas, <script>document.write(Jungkook)</script> compartilhou seu sonho de formar uma linda família com a arquiteta e mudar-se para o subúrbio, criando os dois filhos que planejava ter. No entanto, nos últimos anos, <script>document.write(Namjoon)</script> testemunhou a vida pessoal, os sonhos e os planos de <script>document.write(Jungkook)</script> sendo gradualmente deixados de lado e engolidos pelo trabalho. Não era difícil reconhecer esses padrões, especialmente considerando que ele mesmo havia passado por algo semelhante. <script>document.write(Jungkook)</script> às vezes chegava ao trabalho com expressão cansada, vestindo as mesmas roupas do dia anterior, indicando que mal tinha dormido em casa. <script>document.write(Rafaela)</script> comparecia cada vez menos aos eventos sociais promovidos pela delegacia, como comemorações e jantares organizados por colegas de trabalho e superiores.</p>
+
+<p><script>document.write(Namjoon)</script> não podia negar a semelhança entre ele e <script>document.write(Jungkook)</script>. Ele também tivera uma noiva, embora a relação não tivesse chegado ao status de esposa, terminando antes disso. Era quase irônico, uma piada sombria, mas algo que acontecia com bastante frequência quando o trabalho era salvar pessoas: muitas vezes você acaba se afundando. Por isso, e principalmente porque sabia que <script>document.write(Jungkook)</script> o tinha como exemplo, <script>document.write(Namjoon)</script> sentia-se obrigado a aconselhá-lo, embora não acreditasse que isso realmente ajudasse em alguma coisa.</p>
+
+<p>Deixando suas preocupações com <script>document.write(Jungkook)</script> de lado por um momento, <script>document.write(Namjoon)</script> trouxe à tona outra preocupação em sua mente: <script>document.write(Aline)</script> <script>document.write(Almeida)</script>. Mesmo revisando constantemente o breve encontro que tivera com ela, analisando cada expressão, reação e palavra que ela proferiu, ele não encontrava nada em que pudesse se agarrar. Ele não esperava que ela confessasse ou entrasse em pânico completo, afinal, sabia bem de sua reputação, afinal, ela não era renomada à toa. No entanto, ele se sentiu ainda mais frustrado do que antes. Havia desperdiçado outra oportunidade com mais um tiro no escuro, juntando-se aos vários outros que já tinha dado. E quantos mais ainda teria que dar?</p>
+
+<p><script>document.write(Rafaela)</script> balançava os pés nervosamente enquanto fitava o relógio do outro lado de sua sala, cujo tic-taque incessante se afastava cada vez mais do meio-dia. <script>document.write(Hoseok)</script> não havia marcado um horário preciso para buscá-la, apenas disse "hora do almoço". Quem diabos marca um compromisso de forma tão vaga? A hora do almoço pode ser qualquer hora desde que você deseje comer.</p>
+
+<p>A mulher sentia-se extremamente frustrada. Ela deveria ter dito não ao homem misterioso no momento em que adentrou aquela recepção. Deveria ter insistido em contar para <script>document.write(Jungkook)</script>, seu marido, na noite anterior, que um funcionário a serviço de um mafioso estava tentando recrutá-la para fins obscuros. Deveria. Poderia. As palavras giravam em sua cabeça como o ponteiro daquele relógio, sem parar, tic-taqueando como uma bomba-relógio. Bastava ter dito não. Por que ela não disse não?</p>
+
+<p>Quinze para uma, e nada dele. Com sorte, o homem estava apenas pregando uma peça nela. Talvez estivesse tentando assustá-la. Não seria a primeira vez que ser esposa de um detetive lhe causava transtornos, e certamente não seria a última. <script>document.write(Rafaela)</script> suspirou, levantando-se de sua mesa e ajustando sua camiseta preta dentro da calça jeans de lavagem clara que havia escolhido usar no dia, sentindo-se completamente patética por ter acatado o conselho de moda de um mafioso.</p>
+
+<p>Foi então que o ramal de seu escritório tocou, e ela atendeu esbaforida.</p>
+
+<p>-O senhor <script>document.write(Jung)</script>está esperando - a voz de Ashley estava carregada de curiosidade, e <script>document.write(Rafaela)</script> conseguia praticamente sentir, através da parede, todos os questionamentos da recepcionista.</p>
+
+<p>-Estou indo - respondeu a arquiteta simplesmente, colocando o telefone de qualquer jeito no gancho enquanto pegava sua bolsa. Pensou em checar sua maquiagem, mas parou o pensamento na metade. Por que ela checaria sua maquiagem para ver um sujeito como aquele? Além disso, <script>document.write(Rafaela)</script> deveria estar pensando em maneiras polidas de rejeitar o projeto, não em agradá-lo.</p>
+
+<p>Ele estava vestido de forma tão extravagante quanto no dia anterior, embora em outro estilo. Optara por uma roupa tática completamente preta, com alguns acessórios em prata. Ela reconheceu o símbolo da Dior espalhado pela roupa, enquanto tentava ao máximo não prestar atenção em como ele estava... magnífico.</p>
+
+<p>Realmente, mafiosos tinham estilo.</p>
+
+<p>-Me desculpe pelo atraso - disparou <script>document.write(Hoseok)</script> sem cerimônias, enquanto ela passava pelo guichê da recepção e se aproximava dele. - Ocorreram alguns imprevistos.</p>
+
+<p><script>document.write(Rafaela)</script> deu de ombros.</p>
+
+<p>-Da próxima vez, eu cancelo - rebateu</p>
+
+<p>Próxima vez? Do que estava falando? Definitivamente não haveria uma próxima vez.</p>
+
+<p>Ele pareceu achar fofo a insurgência dela, mantendo um sorrisinho divertido no canto dos lábios.</p>
+
+<p>-Ashley, por favor, limpe minha agenda para o resto da tarde. Depois, eu irei direto para casa, ok? - Avisou à secretária, enquanto chamava o elevador. Sua intenção era chegar em casa e fingir que tudo aquilo não havia acontecido. E se <script>document.write(Hoseok)</script> insistisse, aí sim ela contaria tudo para <script>document.write(Jeon)</script>.</p>
+
+<p>Pensar no marido deixou <script>document.write(Rafaela)</script> com um gosto amargo na boca. Enquanto adentrava o elevador acompanhada por <script>document.write(Hoseok)</script>, remoía a interação que haviam tido na noite anterior. Havia ficado tão enfurecida que pulou o jantar e foi direto para a cama. Não viu que horas eram ou se <script>document.write(Jungkook)</script> havia se deitado ao seu lado. Quando acordou naquela manhã, ele já não estava em casa.</p>
+
+<p><script>document.write(Hoseok)</script> pareceu notar a introspecção da mulher e achou por bem puxar conversa.</p>
+
+<p>-Algo está te incomodando? - perguntou, mantendo uma expressão serena enquanto o elevador subia lentamente.</p>
+
+<p><script>document.write(Rafaela)</script> virou o rosto para encará-lo, observando a maneira confiante como ele se mantinha, mesmo diante de sua aparente inquietação. Era difícil para ela não notar a atração que emanava dele, mas também era impossível ignorar a sensação de perigo que o envolvia. Decidiu responder de forma breve, sem entrar em detalhes.</p>
+
+<p>-Não é da sua conta - retrucou, desviando o olhar e fixando-se no painel do elevador.</p>
+
+<p><script>document.write(Hoseok)</script> soltou uma risada suave, quase como se apreciasse o desafio que <script>document.write(Rafaela)</script> representava.</p>
+
+<p>-Tem razão, não é mesmo - comentou brevemente. - Gostei da sua roupa - acrescentou, deixando o silêncio cair sobre a dupla quando o elevador abriu as portas no térreo.</p>
+
+<p>Não era um caminho longo até a Emerald Tower, e ele foi feito em completo silêncio dentro da Lamborghini Revuelto de <script>document.write(Hoseok)</script>. <script>document.write(Rafaela)</script> nunca havia estado em um carro como aquele antes. <script>document.write(Jungkook)</script> não era homem de carros extravagantes, sempre preferiu os sedãs clássicos e os SUVs. Os bancos em couro e detalhes vermelhos combinavam com a personalidade de <script>document.write(Hoseok)</script> e seu ar de rebeldia. Algum RnB tocava em volume ambiente, preenchendo o silêncio agradável, enquanto o homem estacionava habilidosamente (não que <script>document.write(Rafaela)</script> estivesse reparando em como ele manobrava o carro) em frente à Emerald Tower.</p>
+
+<p>O edifício era definitivamente um monumento da arquitetura, ela tinha que admitir. Enquanto encarava a fachada do prédio, que embora não mantivesse seu esplendor de outrora, ainda era belíssimo, <script>document.write(Rafaela)</script> percebeu que havia cometido um erro em ir até ali. Sua paixão por construções antigas sempre a amolecia, e só de imaginar um projeto de revitalização daquela fachada assinado por ela, seus olhos brilhavam.</p>
+
+<p>-Eu acho que nunca vi alguém encarar um prédio tão intensamente - observou <script>document.write(Hoseok)</script>, puxando-a de seu devaneio.</p>
+
+<p><script>document.write(Rafaela)</script> suspirou.</p>
+
+<p>-Eu tenho um certo fascínio por prédios antigos. É o motivo pelo qual me interessei pela arquitetura - respondeu, sem pensar. Não sabia por que estava compartilhando qualquer coisa com aquele homem, mas algo sobre ele não a fazia pensar com clareza.</p>
+
+<p>A arquiteta virou-se para fitar <script>document.write(Hoseok)</script> diretamente no rosto e foi pega desprevenida pelo olhar admirado que ele lançava sobre ela. Algo se agitou em seu estômago. Havia tanto tempo que ninguém a olhava daquela forma.</p>
+
+<p>-Vamos entrar. Preciso ter uma noção de como estão essas estruturas - resmungou <script>document.write(Rafaela)</script>, tentando esconder o fato de que fora pega desprevenida.</p>
+
+<p>O tour pelo edifício não foi muito longo. Em suma, era constituído por vários andares de salas comerciais desativadas. <script>document.write(Rafaela)</script> notou que não havia muitos problemas estruturais, mas a parte hidráulica e elétrica teria que ser toda refeita e atualizada. <script>document.write(Hoseok)</script> explicava superficialmente o que cada andar deveria ser. Poucas mudanças seriam necessárias em relação à função anterior dos espaços, e ele prometeu que <script>document.write(Rafaela)</script> poderia conservar quaisquer elementos arquitetônicos da fachada e do interior que desejasse. Enquanto caminhavam, ela se deixou levar pela empolgação, tagarelando animadamente sobre frisos, rodapés e pé-direito. Surpreendentemente, <script>document.write(Hoseok)</script> a ouvia atentamente, mostrando um interesse genuíno.</p>
+
+<p>Ao retornarem ao saguão do edifício, <script>document.write(Rafaela)</script> já havia tomado sua decisão. Apesar dos instintos racionais dizendo-lhe para recusar, ela decidiu aceitar a proposta. O apelo da Emerald Tower falava mais alto, e afinal, o que poderia dar errado? Tinha certeza de que muitos de seus clientes estavam envolvidos em negócios obscuros e crimes de colarinho branco. Contanto que <script>document.write(Hoseok)</script> não planejasse cometer um assassinato na sua frente, estaria tudo bem.</p>
+
+<p>-E então, o que me diz? - perguntou <script>document.write(Hoseok)</script>, fitando-a intensamente nos olhos e deixando <script>document.write(Rafaela)</script> levemente sem ar.</p>
+
+<p>Ela molhou os lábios ansiosamente.</p>
+
+<p>-Eu aceito - disparou, sentindo uma onda de adrenalina invadir seu corpo quando o sorriso dele se alargou, atingindo os olhos castanhos e calorosos - mas, eu gostaria de pedir - ela se corrigiu - não, exigir, que meu nome não esteja vinculado ao projeto até o final. Suponho que vocês possam fazer isso.</p>
+
+<p><script>document.write(Hoseok)</script> captou o significado velado na ênfase da palavra "vocês" e assentiu calmamente.</p>
+
+<p>-Como desejar, estou aqui para atender a todos os seus desejos - brincou ele, um sorriso malicioso dançando em sua boca bem desenhada - quer dizer, todas as suas exigências.</p>
+
+<p><script>document.write(Rafaela)</script> sentiu suas bochechas queimarem, mas desta vez nem se preocupou em disfarçar. Teria que se acostumar com a natureza expansiva de <script>document.write(Hoseok)</script>, e quanto antes o fizesse, melhor.</p>
+
+<p><script>document.write(Aline)</script> acordou naquele dia, coberta de suor, fruto de mais um pesadelo angustiante. Sentia-se perseguida incessantemente por sombras ameaçadoras, uma sensação opressora que não a abandonava. Sabia que não era uma boa ideia ficar acompanhando as notícias sobre a onda de assassinatos que assolava a cidade antes de dormir. No entanto, como um acidente de carro macabro, ela não conseguia evitar olhar para aquele horror. Era feio, hediondo e assustador, mas sua curiosidade mórbida a mantinha cativa.</p>
+
+<p>Para se livrar da sensação pegajosa que ainda lhe envolvia, <script>document.write(Aline)</script> tomou um banho gelado, permitindo que a água fria acalmasse seu corpo e sua mente. Enquanto se aprontava para enfrentar o dia, ligou a televisão e se deparou com ninguém menos que o delegado <script>document.write(Kim)</script> <script>document.write(Namjoon)</script> dando uma entrevista para o jornal local. Seu aspecto elegante contrastava com a gravidade dos acontecimentos. <script>document.write(Aline)</script> reconhecia que a televisão não conseguia capturar toda a beleza imponente de <script>document.write(Namjoon)</script>, algo que ela própria havia testemunhado pessoalmente.</p>
+
+<p>Outro corpo encontrado. Merda. A onda de violência continuava a se espalhar pela cidade, deixando um rastro de morte e desespero. <script>document.write(Aline)</script> observou atentamente enquanto a repórter questionava o delegado sobre o caso.</p>
+
+<p>-Alguma atualização sobre o caso, delegado? - indagou a repórter, buscando informações do homem bem vestido. <script>document.write(Aline)</script> não conseguia evitar ter sua atenção fixada na tela, capturada pelas palavras de <script>document.write(Namjoon)</script>.</p>
+
+<p>A voz grave do delegado ecoou pelo quarto vazio de <script>document.write(Aline)</script>, preenchendo-o com uma aura densa. Era estranho vê-lo pela TV, mas aquela entrevista trouxe consigo uma sensação incômoda. O delegado estava falando sobre um bilhete encontrado no local do crime, revelando que a vítima encontrada não se encaixava no perfil dos casos anteriores. As palavras de <script>document.write(Namjoon)</script> ecoaram em sua mente, enquanto ela se arrumava e ajustava seus cachos volumosos em frente ao espelho.</p>
+
+<p>-A opinião pública já apelidou o assassino de Serial Killer das Sombras. A polícia já sabe se é mesmo apenas um autor? - a repórter indagou, buscando a resposta que todos ansiavam.</p>
+
+<p><script>document.write(Namjoon)</script> negou com veemência, desmentindo qualquer certeza precipitada.</p>
+
+<p>-Não temos motivos para acreditar nisso. Não estaremos tratando como um caso de Serial Killer ainda. Nosso espectro de investigação é amplo, e estamos considerando várias hipóteses - respondeu, de forma evasiva.</p>
+
+<p><script>document.write(Aline)</script> não pôde deixar de resmungar em desdém para si mesma, enquanto ajeitava seus cachos e abotoava a camisa de seda.</p>
+
+<p>-Chamar um leopardo de ovelha não muda o fato de que continua sendo um leopardo - murmurou para o nada, expressando sua descrença na explicação do delegado.</p>
+
+<p>A entrevista terminou, a tela foi preenchida pela imagem do âncora no estúdio, e <script>document.write(Aline)</script> ficou ali, imersa em seus pensamentos. Máfia... Seria aquilo o que estava por trás do encontro entre ela e <script>document.write(Namjoon)</script>? Poderia ser que o delegado estivesse atribuindo a autoria dos assassinatos a Yoongi? Havia muito mais naquela história do que ela conhecia, e sua mente inquisidora não deixava espaço para descanso. Enquanto dirigia para seu escritório naquela manhã, <script>document.write(Aline)</script> observava atentamente cada pessoa em seu caminho, tentando categorizá-las entre potenciais assassinos e potenciais vítimas. Por via das dúvidas, pensou em comprar um Spray de Pimenta. Afinal, era melhor se prevenir do que lamentar.</p>
+
+<p>Não era costume de Yoongi aparecer no escritório de <script>document.write(Aline)</script>, mas ali estava ele numa manhã de segunda-feira. Seu terno preto o fazia se camuflar perfeitamente no ambiente rebuscado e elegante, embora estivesse sentado de maneira despojada na cadeira em frente à ruiva, exibindo seu ar de deboche usual.</p>
+
+<p>-Me desculpe, acho que não ouvi direito - ela declarou, inclinando a cabeça. - Você quer revitalizar o Emerald Tower? Um prédio embargado com histórico de crime e processo?</p>
+
+<p>O homem sorriu como se tivesse pedido a coisa mais simples do mundo.</p>
+
+<p>-Exatamente.</p>
+
+<p><script>document.write(Aline)</script> respirou fundo e massageou as têmporas. Às vezes, sentia que estava lidando com uma criança. Quando Yoongi queria algo, era do jeito dele, quando ele queria, e ele não arredava o pé.</p>
+
+<p>Você tem noção do quão difícil vai ser conseguir esse alvará? Especialmente com aquele delegado psicopata e obsessivo no seu rastro - <script>document.write(Aline)</script> argumentou. - O aconselhável é você manter o máximo de discrição possível, ao invés de sair por aí quebrando prédios e alterando a vista da cidade.</p>
+
+<p>Yoongi sequer reagiu às palavras de <script>document.write(Aline)</script>.</p>
+
+<p>-Ah, também preciso que arrume alguém para assumir o projeto no lugar da arquiteta original - jogou Yoongi casualmente, como quem pede um muffin para acompanhar seu café no Starbucks.</p>
+
+<p>-Algo mais, senhor? - <script>document.write(Aline)</script> cuspiu, sarcástica.</p>
+
+<p>Reclame menos - o homem advertiu, num tom frio. - Não te pago uma pequena fortuna para reclamar das dificuldades do seu trabalho.</p>
+
+<p>Mas a ruiva não se importou com o tom de Yoongi e continuou:</p>
+
+<p>-Parte do meu trabalho inclui aconselhá-lo e adverti-lo legalmente - apontou. - Seria muito melhor e menos trabalhoso se vocês construíssem um edifício do zero.</p>
+
+<p>Yoongi interrompeu-a batendo com o punho na mesa, sua paciência se esvaindo completamente com o papo da advogada.</p>
+
+<p>-Eu não me importo - ele grunhiu entre os dentes. - Eu quero tudo o que me foi tirado de volta nessa cidade, o prédio, os empreendimentos. Não me importo com quantas pessoas você tenha que subornar no caminho. Apenas faça.</p>
+
+<p>Apesar de não se intimidar, a ruiva decidiu não abusar de sua sorte e não pressionar Yoongi mais a fundo.</p>
+
+<p>-Considere feito - murmurou em tom de deboche, reclinando-se em sua cadeira para fitá-lo com ar de superioridade.</p>
+
+<p>Yoongi odiava aquilo e ela sabia.</p>
+
+<p>Antes que o homem saísse pela porta, no entanto, <script>document.write(Aline)</script> se lembrou de lhe perguntar algo.</p>
+
+<p>Yoongi - chamou em um tom ameno e esperou que ele se virasse - Você sabe algo sobre os assassinatos que vêm acontecendo na cidade?</p>
+
+<p>Ele a fitou por um momento, erguendo a sobrancelha falhada onde uma cicatriz a cruzava.</p>
+
+<p>Não. É algo do qual eu esteja sendo acusado? - ele respondeu com um toque de desconfiança.</p>
+
+<p>Ela suspirou pesadamente.</p>
+
+<p>Não. É só algo que eu vi no jornal hoje cedo - mentiu - vi que a última vítima era uma mulher...</p>
+
+<p>A palavra pairou no ar, carregada de um peso silencioso.</p>
+
+<p>Yoongi assentiu.</p>
+
+<p>Irei mandar um dos meus homens pra cá. Só por segurança - ele disse de maneira simples.</p>
+
+<p>Sem mais delongas, Yoongi deixou a sala, e <script>document.write(Aline)</script> se perdeu em seus pensamentos.</p>
+
+<p>Olhando pela janela do escritório, <script>document.write(Aline)</script> observou as ruas movimentadas da cidade. Os carros passavam apressados, as pessoas seguiam em suas rotinas diárias, alheias à tempestade que se aproximava. O Emerald Tower destacava-se entre os demais edifícios, imponente e decadente ao mesmo tempo. Era um símbolo de poder e corrupção na cidade, mas também poderia ser transformado em algo grandioso. Sentia uma responsabilidade imensa em seus ombros, mas também uma dose de excitação pelo desafio que estava por vir. </p>
+
+<p>Enquanto refletia sobre os próximos passos, sua mente se voltou para a figura enigmática de Yoongi. Era difícil decifrar suas verdadeiras intenções e motivações. <script>document.write(Aline)</script> sabia que ele tinha uma história complexa e cheia de reviravoltas, mas também enxergava um homem determinado e incansável na busca por sua redenção.</p>
+
+<p><script>document.write(Aline)</script> sabia que teria que lidar com subornos, ameaças veladas e manobras duvidosas para alcançar o que Yoongi desejava. Não seria fácil, mas definitivamente era um trabalho possível para ela. Precisava apenas tomar muito cuidado com <script>document.write(Kim)</script> <script>document.write(Namjoon)</script> ao longo do percurso. Enquanto traçava mentalmente sua estratégia, <script>document.write(Aline)</script> percebeu que estava diante de uma oportunidade única. Se conseguisse superar os desafios, poderia elevar sua carreira a outro patamar. A realização de um projeto tão ousado traria reconhecimento, prestígio e, é claro, uma boa remuneração.</p>
+
+<p>Respirando fundo ela pegou o seu celular e discou o número já conhecido de seu amigo de longa data na promotoria. Após apenas alguns toques, a voz masculina do outro lado da linha atendeu.</p>
+
+<p>-Joffrey - ela chamou em seu tom adulador utilizado para conseguir favores - tenho um trabalho para você. </p>
+
+<p>Era o final do expediente na LAPD. <script>document.write(Jungkook)</script> planejava ir para casa mais cedo naquele dia. Não havia visto <script>document.write(Rafaela)</script> ontem ou hoje de manhã, nem haviam se falado durante todo o dia. Sabia que o que lhe aguardava em casa não era um ambiente tranquilo, mas estava disposto a levar o conselho de <script>document.write(Namjoon)</script> em consideração e trabalhar em sua relação.</p>
+
+<p>O detetive caminhou até a sala de seu superior, algo que sempre fazia antes de ir para casa, só para ter certeza de que tudo estava bem. O delegado ainda trajava as vestes que usara na entrevista para o jornal local daquela manhã, além de sua expressão ostentar a mesma preocupação que o corroía durante todo o dia.</p>
+
+<p>-Tô indo pra casa - o detetive anunciou, atraindo a atenção de <script>document.write(Namjoon)</script> para a porta, que assentiu afirmativamente. - Se precisar de qualquer coisa, por favor me ligue.</p>
+
+<p><script>document.write(Namjoon)</script> o fitou com ar austero.</p>
+
+<p>-<script>document.write(Jungkook)</script>, vá para a casa e esqueça o trabalho, passe um tempo com a sua esposa. Às vezes tudo o que podemos fazer é esperar e esvaziar um pouco a mente - aconselhou, embora <script>document.write(Jungkook)</script> conseguisse ver em seus olhos que não andava fazendo o mesmo.</p>
+
+<p>No entanto, antes que <script>document.write(Jungkook)</script> pudesse fechar a porta, Lis adentrou a sala do delegado, passando por ele como um raio.</p>
+
+<p>-Delegado <script>document.write(Kim)</script> - ela exclamou claramente afobada. - Aquela advogada derrubou as liminares que embargavam a Emerald Tower. Conseguiu uma autorização para obras e permissão para o funcionamento pleno do edifício.</p>
+
+<p><script>document.write(Jungkook)</script> abriu a boca em um O perfeito, olhando estatelado de <script>document.write(Namjoon)</script> para Lis, esperando que aquilo fosse alguma pegadinha.</p>
+
+<p>Se o delegado ficou surpreso, definitivamente não deixou transparecer.</p>
+
+<p>-Obrigado pelo aviso, Lis.</p>
+
+<p>A detetive deixou a sala do delegado sem entender muito bem sua reação, <script>document.write(Jungkook)</script> estava tão surpreso quanto.</p>
+
+<p>-Não vamos fazer nada? - o mais novo questionou em um tom inconformado. - Aquele antro de criminosos vai voltar à ativa e não vamos fazer nada?</p>
+
+<p><script>document.write(Namjoon)</script> encarou <script>document.write(Jungkook)</script> com os olhos pacientes de sempre, mas desta vez o detetive suspeitou que havia algo borbulhando por debaixo de toda aquela calma.</p>
+
+<p>-Às vezes a melhor ação é a inércia - murmurou pragmático. - Vá, <script>document.write(Jeon)</script>, não há nada para ser feito aqui por hoje.</p>
+
+<p>A frustração da resposta enigmática de <script>document.write(Namjoon)</script> seguiu <script>document.write(Jungkook)</script> até sua casa, onde, surpreendentemente, <script>document.write(Rafaela)</script> já o esperava, assistindo a alguma série.</p>
+
+<p>Ultimamente, ela vinha chegando cada vez mais tarde do trabalho. <script>document.write(Jungkook)</script> até achava que ela estava, de alguma forma, imitando seu comportamento na esperança de que ele percebesse ou admitisse que estava errado. Ele nunca tocou no assunto.</p>
+
+<p>-Chegou cedo - ele a cumprimentou, com um beijo estalado na bochecha, notando que ela usava uma calça jeans e uma camisa preta, vestes nada costumeiras em seu dia a dia.</p>
+
+<p>-Você também - ela murmurou um pouco aérea. - Tá tudo bem?</p>
+
+<p>Ele apenas murmurou um "hmm", e ela não perguntou mais nada.</p>
+
+<p>-Ei, o que você ia me contar ontem? - <script>document.write(Jungkook)</script> indagou à esposa, sentando ao seu lado no sofá. Ela o fitou parecendo não saber do que ele estava falando. - Sabe, sobre o escritório.</p>
+
+<p><script>document.write(Rafaela)</script> teve uma reação estranha. Por uma fração de segundos, <script>document.write(Jungkook)</script> podia jurar que ela ficara lívida, mas durou muito pouco, e ele julgou ser coisa de sua cabeça.</p>
+
+<p>-Nada - ela respondeu em um tom pacato. - Alguma bobeira da Ashley.</p>
+
+<p><script>document.write(Jungkook)</script> sentia que algo estava fora do lugar, embora não soubesse apontar exatamente o que era na atitude de sua esposa que o estava incomodando. Mas tudo foi varrido de sua mente quando ela sorriu para ele e roubou um beijo doce que não se davam há muito tempo.</p>
+
+<h3><i>Dre</i></h3>
+
+<p>As luzes da cidade iluminavam de forma parca o quarto de hotel, e <script>document.write(Hoseok)</script> fitava o homem nos olhos, enquanto o mesmo se encontrava ajoelhado e suplicando por sua vida.</p>
+
+<p>-Eu juro que eu não fiz nada - disse o homem com desespero.</p>
+
+<p>O loiro riu de maneira sádica.</p>
+
+<p>-Não é isso que o Yoongi acha - ecoou a voz aguda de <script>document.write(Jung)</script><script>document.write(Hoseok)</script> pelo quarto.</p>
+
+<p>-Fala pra ele, <script>document.write(Hope)</script>, explica - o tom do desconhecido ficava cada vez mais desesperado. - Você é o único que ele ouve.</p>
+
+<p><script>document.write(Hoseok)</script> interrompeu abruptamente a súplica, cuspindo no rosto do homem com desdém.</p>
+
+<p>-Não me chame assim - respondeu ele entre os dentes.</p>
+
+<p>Com um sorriso macabro estampado no rosto, <script>document.write(Hoseok)</script> ergueu a arma e a aproximou do tórax do rapaz. Ele choramingava súplicas vãs pela sua vida. O disparo da arma foi abafado pelo silenciador acoplado à peça, e <script>document.write(Hoseok)</script> largou Félix no chão, engasgando em seu próprio sangue.</p>
+
+<p> </p>
+
+<p><script>document.write(Rafaela)</script> engolia em seco enquanto se olhava no espelho, ajustando o vestido branco ombro a ombro em seu corpo, checando se as ondas em seu cabelo estavam perfeitas o suficiente, cogitando refazer toda a sua maquiagem. A mulher havia frequentado inúmeros eventos black tie em sua vida, mas nenhum como aquele, Min Yoongi, o chefe de <script>document.write(Hoseok)</script> (e consequentemente seu chefe, mas, <script>document.write(Rafaela)</script> gostava de ignorar esta parte) estava promovendo um jantar para comemorar o andamento da obra no Emerald Tower. Havia aproximadamente dois meses que os trabalhos haviam começado de maneira efetiva, haviam homens trabalhando e canteiros de obra, máquinas barulhentas e visitas frequentes da arquiteta ao local, na maioria das vezes acompanhada por <script>document.write(Hoseok)</script>. </p>
+
+<p>Enquanto tentava se decidir por um par de brincos esmeraldas ou de quartzo rosa, <script>document.write(Jungkook)</script> adentrou o closet, aparentando confusão. </p>
+
+<p>-Onde você vai? Eu esqueci de algum evento? - o moreno perguntou esbaforido, tentando entender onde a esposa poderia ir vestida de maneira tão deslumbrante. </p>
+
+<p><script>document.write(Rafaela)</script> franziu o cenho. </p>
+
+<p>-Hoje é o jantar com um cliente. Eu não te convidei, porque, bem, você nunca vai mesmo - a loira deu de ombros, descartando as esmeraldas e optando pelos brincos de quartzo. Aquela era uma meia verdade, ela andava contando várias destas ultimamente. </p>
+
+<p>Ele fez uma careta às costas dela, que <script>document.write(Rafaela)</script> fora capaz de ver graças ao espelho. </p>
+
+<p>-Não é bem assim - ele resmungou, se despindo de sua camisa e atirando ao cesto de roupas sujas - você sabe que a maioria desses jantares se estende até tarde e inclui papos longos sobre algum assunto pelo qual eu não me interesso. - ele caminhou até ela, a envolvendo em seus braços na intenção de apaziguá-la. </p>
+
+<p><script>document.write(Rafaela)</script> se desvencilhou, demonstrando estar incomodada com o contato. </p>
+
+<p>-Eu tô quase pronta e você tá suado - outra meia verdade. Não queria chegar ao jantar cheirando à colônia e suor do marido, mas a ideia do toque físico de <script>document.write(Jungkook)</script> não a animava há algumas semanas. </p>
+
+<p>Ele se afastou com uma expressão levemente ofendida. </p>
+
+<p>-Ei, passei o dia sentado, não tô suado não! - ele rebateu, voltando a abraçá-la, dessa vez de frente. </p>
+
+<p>-Amoor - <script>document.write(Rafaela)</script> choramingou, manhosa - vai amassar meu vestido. </p>
+
+<p><script>document.write(Jungkook)</script> soltou um suspiro resignado, soltando-a suavemente. Ele olhou para o vestido branco de <script>document.write(Rafaela)</script> com uma expressão de admiração.</p>
+
+<p>-Você está linda, como sempre - disse ele, tentando suavizar o clima entre eles.</p>
+
+<p><script>document.write(Rafaela)</script> forçou um sorriso, agradecendo pelo elogio, mas a tensão ainda pairava no ar. Ela se virou de volta para o espelho, dando os últimos retoques em sua aparência.</p>
+
+<p><script>document.write(Rafaela)</script> soltou um suspiro frustrado e delicadamente afastou <script>document.write(Jungkook)</script>, evitando qualquer contato mais próximo. Seu coração se apertou com a sensação de distância que havia se instalado entre eles nos últimos tempos, sabia que algo havia mudado, principalmente dentro dela, mas aquele não era o momento de pensar em trabalhar seu relacionamento. Pegando sua bolsa, ela se forçou a lançar um beijo para o marido. </p>
+
+<p>-Tô indo. Não me espere acordado - brincou, embora soubesse que havia um fundo de verdade. </p>
+
+<p>Em cerca de meia hora, <script>document.write(Rafaela)</script> encontrava-se parada em frente ao imponente número 777 da Bedford Drive, onde uma mansão de estilo clássico se estendia majestosamente diante dela. Os portões imponentes cercavam a propriedade, guardada por dois seguranças atentos na entrada. Ao vê-la, os guardas verificaram algo em um dispositivo semelhante a um smartphone antes de autorizarem sua entrada. <script>document.write(Rafaela)</script> sentiu um calafrio percorrer sua espinha, imaginando que eles poderiam tê-la reconhecido por meio de uma foto em algum banco de dados da máfia.</p>
+
+<p>Estacionando seu Tesla S em frente à porta principal, entregando as chaves ao valet, ela atravessou uma curta escadaria e adentrou a mansão através de uma imponente porta branca. Aconchegada por uma iluminação suave, a atmosfera interior era acolhedora, completamente diferente do que ela imaginara para o covil de um vilão. Uma recepcionista cordial a cumprimentou ao entrar, enquanto <script>document.write(Rafaela)</script> tentava absorver a grandiosidade do lugar.</p>
+
+<p>No topo da escada, um homem trajando um elegante terno azul-marinho, com os cabelos negros perfeitamente penteados para trás, observava-a calmamente. Ela não precisava de ninguém para dizer-lhe que aquele homem era Min Yoongi, o anfitrião da noite.</p>
+
+<p>Ele se aproximou dela com um sorriso cordial, e <script>document.write(Rafaela)</script> não pôde deixar de notar a beleza estonteante do homem. Era como se todos os traços em seu rosto estivessem perfeitamente esculpidos, deixando-a questionar se todos os bandidos se pareciam com modelos. Esse pensamento fugaz desviou sua atenção para a realidade.</p>
+
+<p>-Aí está nossa famosa arquiteta - ele a cumprimentou, segurando delicadamente sua mão e depositando um beijo galante. Havia uma leve rispidez em sua voz, uma qualidade que parecia natural nele.</p>
+
+<p>-E você deve ser o meu misterioso chefe - ela brincou, tentando disfarçar a inquietação que sentia - eu estava começando a acreditar que você era apenas uma fantasia criada por <script>document.write(Hoseok)</script>.</p>
+
+<p>Um sorriso suave surgiu nos lábios de Yoongi.</p>
+
+<p>-Infelizmente, não posso acompanhar de perto a revitalização do Emerald Tower - ele concordou - mas você está em boas mãos sendo assistida por <script>document.write(Hoseok)</script>.</p>
+
+<p><script>document.write(Rafaela)</script> percebeu que, mesmo após as apresentações, ele não soltou sua mão e a conduziu elegantemente pelo lado direito em direção a uma grande porta dupla.</p>
+
+<p>-Você tem uma bela casa - ela elogiou, tentando preencher o silêncio constrangedor.</p>
+
+<p>Yoongi a fitou por um momento.</p>
+
+<p>-É apenas temporária, uma das propriedades que herdei de meu pai - explicou ele - ainda planejo me mudar para um lugar com mais... personalidade.</p>
+
+<p>-Bom - ela comentou enquanto atravessavam as portas e adentravam uma sala de jantar formal, onde um grupo considerável de pessoas já se encontrava - quem sabe depois da revitalização do Emerald.</p>
+
+<p>Ele sorriu, parecendo contemplar a ideia por um momento.</p>
+
+<p>-Seria uma honra.</p>
+
+<p><script>document.write(Rafaela)</script> foi apresentada a algumas das pessoas presentes, que Yoongi chamava de sócios. Ela notou a ausência de <script>document.write(Hoseok)</script>, o que a intrigou por um momento. No entanto, a arquiteta estava acostumada a socializar em diversos ambientes, graças aos seus muitos contatos profissionais. Sentindo-se confiante, ela aproveitou o champanhe que circulava, usando-o como aliado para facilitar as interações.</p>
+
+<p>Em um dos cantos da sala, um pequeno grupo de convidados se reunia em animada conversa. <script>document.write(Rafaela)</script> percebeu a presença de uma mulher elegante e imponente, com um sorriso radiante que iluminava seu rosto. Era Lisa, uma renomada designer de interiores que também trabalhava no projeto do Emerald Tower. Ela era conhecida por sua criatividade e expertise no ramo.</p>
+
+<p>-<script>document.write(Rafaela)</script>! Aí está nossa estrela - cumprimentou Lisa com entusiasmo - Eu estava justamente falando sobre o quão talentosa você é para o design arquitetônico.</p>
+
+<p><script>document.write(Rafaela)</script> sentiu-se lisonjeada com as palavras da outra, mas ao mesmo tempo, uma leve sensação de desconforto a envolveu. Tudo parecia girar em torno dela e do projeto naquele momento, despertando nela uma curiosidade</p>
+
+<p> Afinal, por que sua presença causava tanto alvoroço?</p>
+
+<p>Enquanto observava o sorriso radiante de Lisa, <script>document.write(Rafaela)</script> percebeu que a designer exalava confiança e elegância em cada gesto. Seu olhar aguçado e expressão cativante indicavam uma mulher experiente e determinada.</p>
+
+<p>-Imagina, é uma honra para mim participar de um projeto tão significativo assim ao seu lado - elogiou de volta. </p>
+
+<p>-Acredite, <script>document.write(Rafaela)</script>, o privilégio é todo nosso em tê-la conosco. Seu talento é notável e estou ansiosa para ver o que juntas seremos capazes de alcançar com o Emerald Tower.</p>
+
+<p>Enquanto o grupo continuava a trocar elogios e perspectivas sobre o projeto, <script>document.write(Rafaela)</script> deixou-se envolver pela animação contagiante.Era tão bom se sentir ouvida e admirada, poucas coisas a preenchiam como a realização profissional e ser reconhecida, além de ter com quem discutir seus interesses. </p>
+
+<p>Em meio à agitação, os olhos de <script>document.write(Rafaela)</script> percorreram o salão, captando um vislumbre dos cabelos descoloridos de <script>document.write(Hoseok)</script>. Um alívio momentâneo a invadiu, atribuindo-o ao fato de ver o homem quase diariamente. Embora não considerasse <script>document.write(Hoseok)</script> um amigo, era reconfortante encontrar uma figura familiar entre tantos rostos desconhecidos. No entanto, seu alívio foi efêmero quando notou uma ruiva estonteante ao lado de <script>document.write(Hoseok)</script>, conversando com ele como se fossem velhos conhecidos. Vestida em um deslumbrante vestido cauda de sereia, a mulher parecia estar embalada a vácuo, emanando uma aura de imponência. <script>document.write(Rafaela)</script> tentou afastar o sentimento que crescia em seu âmago, lembrando-se de que <script>document.write(Hoseok)</script> era apenas o capanga de Yoongi com quem mantinha uma relação pura e estritamente profissional, além de ser casada. Os olhares de <script>document.write(Hoseok)</script> e <script>document.write(Rafaela)</script> se cruzaram por uma fração de segundos, e ela desviou o olhar rapidamente ao perceber o sorriso convencido brotando nos lábios dele. Maldição. <script>document.write(Rafaela)</script> sentia o coração ribombar em seu peito, buscando desesperadamente algo para focalizar enquanto bebia sua champanhe.</p>
+
+<p>Em meio à turbulência de suas emoções, uma voz conhecida soou atrás de <script>document.write(Rafaela)</script>, fazendo-a engolir em seco. Ela se virou com um sorriso congelado no rosto ao encontrar <script>document.write(Hoseok)</script> parado ali.</p>
+
+<p> -Ora, ora quem temos aqui - a voz conhecida soou atrás da mulher, e ela engoliu em seco e se virou com um sorriso congelado em seu rosto - você está deslumbrante - ele a elogiou.</p>
+
+<p>Mas não era ela quem estava deslumbrante, era a ruiva ao lado dele, com sua estatura imponente, olhos verdes cintilantes como duas esmeraldas e lábios carmesim estonteantes. Seria ela uma modelo? Talvez a namorada de <script>document.write(Hoseok)</script>? Mas ele nunca havia mencionado uma namorada. <script>document.write(Rafaela)</script> desejou desconectar seu cérebro por um momento, sem entender por que estava hiper analisando a relação daquele homem com aquela bela estranha.</p>
+
+<p><script>document.write(Rafaela)</script> desejou desplugar seu cérebro por um momento, não entendia o motivo de estar hiper analisando a relação daquele homem com aquela bela estranha. </p>
+
+<p>-Ah, então você é a famosa arquiteta de quem escuto falar várias vezes ao dia - a mulher a cumprimentou, com seu tom expansivo e articulado. </p>
+
+<p>Óbvio que ela era bem articulada, <script>document.write(Rafaela)</script> pensou consigo mesma. </p>
+
+<p>-<script>document.write(Rafaela)</script>, esta é a <script>document.write(Aline)</script>, nossa advogada. <script>document.write(Aline)</script>, esta é a <script>document.write(Rafaela)</script> - <script>document.write(Hoseok)</script> as apresentou. </p>
+
+<p><script>document.write(Aline)</script>. Aquele nome não lhe era estranho. </p>
+
+<p>-<script>document.write(Aline)</script>… <script>document.write(Almeida)</script>? - <script>document.write(Rafaela)</script> perguntou, mesmerizada - Já ouvi falar bastante de você. Acho que, inclusive, temos alguns clientes em comum.</p>
+
+<p>A ruiva sorriu.</p>
+
+<p>-Não sei como não nos encontramos mais cedo então - replicou em um tom descontraído.</p>
+
+<p>Provavelmente porque o mundo não estava preparado para isso até agora - <script>document.write(Hoseok)</script> comentou.</p>
+
+<p><script>document.write(Rafaela)</script> não pôde deixar de revirar os olhos. Se sentia como uma adolescente, mas não era capaz de se controlar.</p>
+
+<p><script>document.write(Aline)</script> não deixou o ato passar batido.</p>
+
+<p>-Ele anda te dando nos nervos? - questionou acidamente - O <script>document.write(Hobi)</script> não conhece limites - completou entre os dentes.</p>
+
+<p>Ela  podia jurar que sua pressão ia cair. "<script>document.write(Hobi)</script>"? Eles se tratavam por apelidos?</p>
+
+<p>Desesperada para sair daquele encontro completamente desajeitado, a mulher deu uma desculpa qualquer sobre procurar Lisa e saiu o mais rápido que pôde da presença dos dois.</p>
+
+<p>Felizmente, não demorou para que Yoongi reunisse seus convidados ao redor da mesa, com um discurso sobre a importância do edifício para ele, e para a história da cidade, propondo um brinde logo em seguida.</p>
+
+<p>Levemente cansada de tanta interação, e ainda se sentindo meio estranha ao conhecer <script>document.write(Aline)</script>, <script>document.write(Rafaela)</script> deu uma leve escapada da aglomeração de pessoas, procurando por algum lugar onde pudesse ficar um pouco sozinha, acabou por entrar em um cômodo que parecia ser uma biblioteca. Haviam diversos livros em prateleiras de mogno que subiam do chão até o teto. Crente de que poderia finalmente respirar aliviada por alguns segundos, <script>document.write(Rafaela)</script> ouviu uma voz conhecida atrás de si.</p>
+
+<p>-Procurando algo? - <script>document.write(Hoseok)</script> perguntou em seu tom debochado usual</p>
+
+<p>-<script>document.write(Rafaela)</script> virou-se rapidamente e deparou-se com <script>document.write(Hoseok)</script> parado próximo à porta da biblioteca. Seu coração acelerou e um misto de frustração e incompreensão tomou conta dela.</p>
+
+<p>-O que você quer agora, <script>document.write(Hoseok)</script>? - perguntou <script>document.write(Rafaela)</script>, fazendo pouca questão de controlar a irritação em sua voz.</p>
+
+<p>Ele deu um sorriso de canto, saboreando a reação dela. Ele se aproximou lentamente, exalando uma mistura de confiança e provocação.</p>
+
+<p>-O que foi que te deixou tão afetada? - fez uma pergunta retórica - deixa eu adivinhar, é uma certa ruiva de um metro e setenta de altura.</p>
+
+<p>A arquiteta não conseguiu segurar uma risada debochada, um mecanismo de defesa, era mais forte do que ela.</p>
+
+<p>-Você é inacreditável, sabia Senhor Jung? Tem um senso de importância gigante, quase do mesmo tamanho que o seu ego.</p>
+
+<p>-<script>document.write(Hoseok)</script> deu um passo mais próximo, invadindo seu espaço pessoal. Seu tom de voz era baixo e carregado de sugestões.</p>
+
+<p>Vai me dizer que não foi isso? Você acha que eu não percebo como você age ao meu redor? Você acha mesmo que eu não vi como você me olhou ao me ver do lado dela? - <script>document.write(Hoseok)</script> esticou a mão e a posicionou em sua cintura. </p>
+
+<p><script>document.write(Rafaela)</script> revirou os olhos, mas seu coração batia rápido e descompassadamente e sua respiração era superficial, fazendo sua cabeça ficar leve e ela se sentir um pouco tonta. Sentia um turbilhão de emoções se chocando dentro dela. Estava irritada com <script>document.write(Hoseok)</script> e sua atitude arrogante, mas ao mesmo tempo, uma parte dela se sentia atraída por ele. Era uma mistura confusa de repulsa e desejo.</p>
+
+<p>Ela empurrou suavemente a mão de <script>document.write(Hoseok)</script> para longe de sua cintura, afastando-se dele.</p>
+
+<p>-Não tente interpretar minhas reações, <script>document.write(Hoseok)</script>, não ouse fingir que sabe o que se passa pela minha mente. Além do mais, eu sou uma mulher casada.</p>
+
+<p>Ele se afastou, e a fitou com um olhar cínico, parecendo pouco afetado pelo tom duro que a mulher havia usado.</p>
+
+<p>-Me desculpa se eu cometi o erro de prestar muita atenção em você - provocou - epor falar no seu casamento, seu marido não deveria estar aqui? - colocou um dedo no queixo enquanto fingia pensar na própria pergunta - Digo, é uma noite importante para você.</p>
+
+<p>-Eu não vejo como isso é da sua conta, <script>document.write(Hoseok)</script>. Meu marido não precisa estar presente em todos os eventos que eu participo - respondeu ela, tentando manter a compostura, embora suas mãos tremessem levemente. - Olha, me dê licença, eu vou voltar pro jantar.</p>
+
+<p>O loiro deu uma risada baixa enquanto ela passou por ele, mas não perdeu a chance de segurar seu braço e perguntar perto de seu ouvido:</p>
+
+<p>-Por isso que ele também não sabe que você está trabalhando no Emerald Tower? - o tom de sua voz era rouco, baixo, pesado com o tom acusatório e malicioso - é interessante ver como alguém pode mentir para si mesma assim. Mas, não se preocupe, eu vou continuar fingindo que não sei, se é o que você prefere.</p>
+
+<p>Ela se desvencilhou de seu aperto, e sem se prolongar mais saiu pela porta, com o coração batendo alto em seus ouvidos e a respiração ofegante.</p>
+
+<p><script>document.write(Aline)</script> observou <script>document.write(Hoseok)</script> se aproximar, um sorriso irônico brincando em seu canto.</p>
+
+<p>-Você é um traste, brincou com o rapaz.</p>
+
+<p>-Não fiz absolutamente nada, não é minha culpa se eu afeto as mulheres, - respondeu convencido. - Me perdoa por criar uma rivalidade feminina entre vocês.</p>
+
+<p><script>document.write(Aline)</script> gargalhou, chamando atenção de alguns ao seu redor.</p>
+
+<p>-Como se aquela gatinha assustada me causasse algum tipo de insegurança, desdenhou.</p>
+
+<p><script>document.write(Aline)</script> sempre preferiu lidar com <script>document.write(Hoseok)</script> ao invés de Yoongi, e logo quando começou a trabalhar para a Haegeum, era exatamente essa a dinâmica, até que Yoongi descobrira que os dois andavam se encontrando. Nunca significou nada para nenhum dos dois além de sexo casual. <script>document.write(Hoseok)</script> era um homem muito atraente, e <script>document.write(Aline)</script> não precisava sequer de descrição, então estava fadado a acontecer. Porém tudo aquilo havia ficado no passado, e agora os dois não passavam de bons colegas de trabalho.</p>
+
+<p>-Você não se emenda, não é mesmo? ela observou, enquanto ele tomava o lugar ao seu lado. A esposa do detetive...</p>
+
+<p>Mas o loiro apenas deu de ombros.</p>
+
+<p>-Trabalho é trabalho.</p>
+
+<p>A advogada não se prolongou no assunto, sabendo muito bem que haviam coisas das quais era melhor não saber.</p>
+
+<p><script>document.write(Aline)</script> retornava ao seu apartamento após o jantar, dirigindo pela movimentada Sunset Boulevard. Algumas pessoas caminhavam pela rua, a maioria delas saindo dos bares, como ela observou enquanto aguardava no sinal vermelho. Nesse momento, sua mente foi convenientemente lembrada da onda de assassinatos que assombrava a cidade, e seus olhos se fixaram em sua bolsa no banco do passageiro, onde guardava seu spray de pimenta, apenas por precaução.</p>
+
+<p>Ela não se sentia segura ao andar pela cidade, mas também não gostava da ideia de ter os brutamontes que trabalhavam para Yoongi a seguindo por toda parte. Imersa em seus pensamentos, <script>document.write(Aline)</script> acelerou o carro, mas logo teve que parar novamente em outro semáforo. Ela praguejou a movimentação da cidade, que não permitia que ela simplesmente passasse por todos os sinais vermelhos durante a madrugada. <script>document.write(Aline)</script> não viu a moto com o sujeito encapuzado que parou abruptamente próximo a ela, nem percebeu quando ele sacou uma submetralhadora. Foi somente quando o primeiro tiro ecoou, cortando o ar gélido da noite, que a advogada percebeu que estava em perigo.</p>
+
+<p>Seu primeiro instinto foi pisar fundo no acelerador, mas a figura que a seguia fez o mesmo, quase ao mesmo tempo, iniciando uma perseguição frenética. <script>document.write(Aline)</script> nunca tinha vivido uma situação como aquela e tinha certeza de que não sairia viva dela. O piloto da moto era ágil e a alcançava com extrema destreza, enquanto ela, em desvantagem por estar em um veículo mais pesado, dava o seu melhor. O homem ocasionalmente disparava tiros, enviando uma descarga de pânico e adrenalina pelo corpo da advogada. As pessoas nas ruas observavam horrorizadas, paralisadas demais para fazer qualquer coisa.</p>
+
+<p>Em um momento tenso, enquanto <script>document.write(Aline)</script> fazia a conversão para a via expressa, o homem se aproximou perigosamente da janela dela. Ele ergueu sua arma e se preparou para puxar o gatilho. Nada além de uma enxurrada de palavrões e orações a um deus em que ela sequer acreditava passou pela mente da advogada. Houve um estrondo seguido de um clarão, e <script>document.write(Aline)</script> perdeu o controle do carro. A última coisa que viu foi um poste se aproximando rapidamente em sua direção.</p>
+
+<p><script>document.write(Aline)</script> acordou em seu carro, o impacto do acidente deixando-a tonta e confusa e sua cabeça latejava. Seus olhos pesados se abriram lentamente, e ela se viu cercada por fumaça e o cheiro de borracha queimada. Seu corpo doía intensamente, mas sua mente estava determinada a entender o que havia acontecido.</p>
+
+<p>Com esforço, <script>document.write(Aline)</script> soltou o cinto de segurança e empurrou a porta do carro, que estava amassada e emperrada. O ar frio da noite invadiu o interior do veículo, e ela cambaleou para fora, apoiando-se no carro danificado para se manter em pé. Os destroços estavam espalhados pela via expressa, e os faróis de outros carros iluminavam o cenário caótico.</p>
+
+<p>Foi então que <script>document.write(Aline)</script> viu uma figura se aproximando, emergindo da escuridão. Era ninguém mais ninguém menos que o delegado <script>document.write(Kim)</script> <script>document.write(Namjoon)</script>.</p>
+
+<p>Merda. </p>
+
+<p>-Você está bem? - perguntou <script>document.write(Namjoon)</script>, sua voz cheia de preocupação.</p>
+
+<p><script>document.write(Aline)</script> encarou o Delegado com um misto de raiva e desconfiança. Ainda atordoada pelo acidente e pelo susto que acabara de passar, ela não conseguia evitar a sensação de que ele estava envolvido de alguma forma naquele caos.</p>
+
+<p><script>document.write(Aline)</script> soltou uma risada sarcástica, respondendo com um tom desdenhoso enquanto ignorava a pergunta de <script>document.write(Namjoon)</script>.</p>
+
+<p>Estou viva, se é isso que você quer saber. Devo acreditar que você simplesmente apareceu aqui, do nada? No lugar certo e na hora certa?</p>
+
+<p><script>document.write(Namjoon)</script> fixou os olhos nela, indignado com as acusações. Sua expressão demonstrava que não iria levar aquilo de forma leviana.</p>
+
+<p>-Não espero que acredite em nada. Eu estava aqui, vi o homem te seguindo e, como agente da lei, intervenho quando necessário. Eu nem sabia que era você no carro - retrucou ele, com um tom seco.</p>
+
+<p><script>document.write(Aline)</script> limpou o vestido, observando as escoriações pelo corpo, antes de perguntar a <script>document.write(Namjoon)</script>:</p>
+
+<p>-Você o matou?</p>
+
+<p>-Ele fugiu. Não sou um assassino. Não sou um mafioso para matar.</p>
+
+<p><script>document.write(Aline)</script> ignorou a provocação na voz de <script>document.write(Namjoon)</script>, deixando escapar uma explosão de raiva.</p>
+
+<p>Merda! Meu carro! - ela gritou, o choque inicial dando lugar ao ódio. - E meu vestido! AAAAH! - berrou novamente. - Eu vou matar alguém!</p>
+
+<p><script>document.write(Namjoon)</script> a observou, franzindo o cenho diante da intensidade de suas palavras.</p>
+
+<p>-Agradeça por estar viva. Se eu não estivesse aqui, você não estaria nem mesmo respirando - afirmou ele, com firmeza.</p>
+
+<p><script>document.write(Aline)</script> cuspiu no chão, vendo o sangue e a saliva se misturarem no pavimento.</p>
+
+<p>-Esse infeliz deveria ter me matado. Foi o pior erro que ele cometeu na vida!</p>
+
+<p><script>document.write(Namjoon)</script> lançou um olhar cauteloso para <script>document.write(Aline)</script> e ofereceu um conselho:</p>
+
+<p>-Não faça ameaças na frente de um delegado.</p>
+
+<p>Ela deu de ombros, demonstrando indiferença diante da observação de <script>document.write(Namjoon)</script>.</p>
+
+<p>-Para todos os efeitos, sou apenas uma vítima em estado de choque - respondeu ela, Usando o humor para disfarçar a turbulência emocional que a consumia.</p>
+
+<p>Foi uma visita conturbada à emergência. <script>document.write(Aline)</script> adentrou a sala, sentindo o cheiro familiar de desinfetante e a agitação típica do local. Seu coração ainda batia acelerado, o eco do perigo recente ressoando em sua mente. O ambiente parecia movimentado, médicos e enfermeiros correndo de um lado para o outro, mas ela sentia-se isolada em meio àquele caos.</p>
+
+<p><script>document.write(Aline)</script> aproximou-se do balcão de atendimento, segurando firme a ficha com seus dados enquanto aguardava a vez de ser atendida. Observou o vai e vem das macas, o som das vozes preocupadas e dos monitores emitindo seus constantes bips. O medo, que há muito tempo se enraizara em seu ser, ressurgiu com força total, apertando seu peito e turvando seus pensamentos.</p>
+
+<p>Quando finalmente chegou sua vez, <script>document.write(Aline)</script> relatou com voz trêmula o acidente e as dores que sentia. A enfermeira, atenta e profissional, a conduziu para uma sala de triagem, onde foram feitos os exames preliminares. Cada toque em sua pele ferida era como uma lembrança dolorosa do perigo pelo qual passara.</p>
+
+<p>Enquanto esperava o diagnóstico, <script>document.write(Aline)</script> sentou-se na maca, olhando para o ambiente estéril que a cercava. Era como se aquele lugar fosse um microcosmo de seus próprios tormentos internos. O medo, sempre presente em sua vida, agora se materializava em enfermarias e corredores brancos, lembrando-a da fragilidade de sua existência.</p>
+
+<p><script>document.write(Aline)</script> não pôde evitar que seus pensamentos se voltassem para o passado, para aquele trauma pré-existente que havia moldado sua vida. Lembrava-se das perseguições constantes, das noites em claro fugindo de sombras ameaçadoras. Cada rosto desconhecido na multidão era um potencial perseguidor, cada passo rápido atrás dela era um eco das memórias assustadoras que a assombravam.</p>
+
+<p>O médico entrou na sala, interrompendo seus devaneios sombrios. Ele examinou seus ferimentos com atenção e anunciou que não havia lesões graves, apenas alguns arranhões e hematomas. <script>document.write(Aline)</script> assentiu, agradecendo silenciosamente por não ter sofrido danos mais sérios. Mas, ao mesmo tempo, a sensação de vulnerabilidade persistia, como se o perigo ainda estivesse à espreita, pronto para atacar novamente. <script>document.write(Aline)</script> não queria ir para a casa sozinha, mas não era mulher de muitos amigos, não tendo para quem ligar, acabou ligando para <script>document.write(Hoseok)</script>, que mandou alguém para escoltá-la até sua casa. </p>
+
+<p>. O trajeto até seu apartamento pareceu interminável, cada esquina trazendo consigo uma dose extra de ansiedade. Seus pensamentos oscilavam entre o alívio por ter escapado com ferimentos leves e o receio de que aquele incidente pudesse ter consequências mais graves em sua vida.</p>
+
+<p>Ao chegar ao prédio onde morava, o segurança a acompanhou até a entrada, garantindo sua segurança. <script>document.write(Aline)</script> agradeceu com um aceno de cabeça antes de se dirigir ao elevador. Enquanto aguardava, seu olhar encontrou Yoongi, um homem esguio, recostado entre os dois elevadores do saguão. Seu coração deu um salto antes que ela percebesse que era ele. Um misto de alívio e preocupação percorreu seu corpo, mas nenhuma palavra foi trocada entre os dois. <script>document.write(Aline)</script> deixou que ele acionasse o elevador e permaneceram em um silêncio pesado durante o trajeto até seu apartamento.</p>
+
+<p>O caminho até seu apartamento parecia interminável, cada passo amplificando a agitação em seu peito. O coração pulsava acelerado, e <script>document.write(Aline)</script> ansiava por sua cama e alguns comprimidos de quetiapina para acalmar sua mente atribulada. No entanto, a sensação de que a noite ainda não havia terminado pairava sobre ela, pesando em seus ombros.</p>
+
+<p>Ao adentrarem o apartamento, <script>document.write(Aline)</script> percebeu que estava mais escuro do que o habitual. Talvez fosse apenas um truque de sua mente cansada, mas havia algo sinistro na atmosfera. Ela se jogou no sofá, exausta, e encarou Yoongi, que permanecia imóvel à sua frente.</p>
+
+<p>-Você conseguiu ver alguma coisa? - ele questionou, com voz neutra.</p>
+
+<p><script>document.write(Aline)</script> negou com a cabeça, incapaz de fornecer qualquer informação útil. Tudo havia acontecido tão rápido, o homem encapuzado surgindo do nada, e o delegado <script>document.write(Kim)</script> <script>document.write(Namjoon)</script> falhando em capturá-lo.</p>
+
+<p>-Tudo aconteceu tão rápido... Eu não sei de onde ele veio, e aquele delegado incompetente não viu para onde ele foi - desabafou <script>document.write(Aline)</script>, frustrada com a falta de respostas.</p>
+
+<p>Yoongi cruzou os braços, perdido em seus próprios pensamentos. Seus olhos analíticos percorreram o ambiente, como se procurasse por pistas invisíveis.</p>
+
+<p>-Não faz nenhum sentido esse desgraçado estar lá naquela hora - Yoongi rosnou, deixando escapar sua indignação. - Tenho certeza de que isso é uma emboscada.</p>
+
+<p><script>document.write(Aline)</script> franziu o cenho, incapaz de compreender os motivos por trás de um plano tão elaborado.</p>
+
+<p>-Emboscada? Por que alguém faria isso? - sua paciência estava se esgotando rapidamente. Tudo o que desejava era um banho reconfortante e esquecer temporariamente aqueles acontecimentos.</p>
+
+<p>-Para te fragilizar, ganhar sua confiança... Eu não sei ao certo - Yoongi cuspiu as palavras, sua irritação evidente.</p>
+
+<p>Exausta, <script>document.write(Aline)</script> se levantou do sofá, sentindo o cansaço finalmente dominar seu corpo.</p>
+
+<p>-Eu vou tomar um banho e dormir. Não quero pensar nisso, não quero saber de mais nada hoje - anunciou, determinada a afastar aquelas preocupações de sua mente exausta.</p>
+
+<p>Yoongi assentiu surpreendentemente, indicando que respeitaria sua decisão. Conhecendo-o tão bem como conhecia, <script>document.write(Aline)</script> sabia que ele era um homem desconfiado e cauteloso, e era possível que também começasse a duvidar dela.</p>
+
+<p>-Você sabe onde é a saída - ela acrescentou, encaminhando-se para o quarto sem olhá-lo novamente.</p>
+
+<p>-Não vou a lugar nenhum - ele retrucou, fazendo com que <script>document.write(Aline)</script> se virasse para encará-lo. Para sua surpresa, ele estava sentado no sofá, sacando o celular do bolso da calça.</p>
+
+<p><script>document.write(Aline)</script> deu de ombros, tentando esconder o alívio que sentiu ao ouvir suas palavras. Era reconfortante ter alguém em quem confiar, mesmo que a situação fosse tão incerta.Agora, com a perspectiva de um banho relaxante e um descanso tão necessário, ela esperava que a noite finalmente encontrasse sua calmaria.</p>
+
+
+
+</div>
+
+
+
+    
+</div>
+
+</body>
+</html>
